@@ -1,10 +1,3 @@
--- =====================================================================
--- Pinewood Gold analytics views
--- Created automatically at the end of the Gold build (see pipeline/gold.py).
--- Reference window: data covers 2025-01..2025-06; "trailing 12 months"
--- is evaluated against the as-of date 2025-06-30.
--- =====================================================================
-
 -- 1. Monthly occupancy rate by community ------------------------------
 CREATE OR REPLACE VIEW gold.vw_monthly_occupancy AS
 SELECT o.community_id,
