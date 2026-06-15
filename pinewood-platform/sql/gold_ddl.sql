@@ -1,18 +1,3 @@
--- =====================================================================
--- Pinewood Gold layer — Star Schema DDL (documentation / reference)
---
--- The pipeline materializes these tables with CREATE TABLE AS SELECT for
--- speed and rerunnability (pipeline/gold.py). This file documents the
--- intended schema: primary keys, foreign keys, grain, and comments. The
--- constraints below are the contract validation enforces.
---
--- Conformed dimensions (shared across fact tables):
---   dim_community  — shared by every fact
---   dim_date       — shared by every time-stamped fact (via month_start)
---   dim_care_level — shared by census, incidents, move-outs, SCD2
---   dim_resident   — shared by incidents, move-outs, acuity, SCD2
--- =====================================================================
-
 -- ---------- Dimensions ------------------------------------------------
 
 -- One row per community. Region is derived from state
