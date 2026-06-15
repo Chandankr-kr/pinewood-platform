@@ -1,0 +1,37 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Environment variables
+.env
+*.env
+
+# DuckDB database (large binary)
+*.duckdb
+*.duckdb.wal
+
+# Power BI binary (add manually before submission)
+*.pbix
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Distribution/packaging
+dist/
+build/
+*.egg-info/

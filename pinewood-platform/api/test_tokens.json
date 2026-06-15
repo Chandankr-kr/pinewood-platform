@@ -1,0 +1,26 @@
+[
+  {
+    "label": "Corporate Admin (sees everything)",
+    "sub": "admin@pinewood.example",
+    "role": "corporate_admin",
+    "region": null,
+    "community_id": null,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbkBwaW5ld29vZC5leGFtcGxlIiwicm9sZSI6ImNvcnBvcmF0ZV9hZG1pbiIsInJlZ2lvbiI6bnVsbCwiY29tbXVuaXR5X2lkIjpudWxsLCJpYXQiOjE3ODE0Njg5NzUsImV4cCI6MTgxMzAwNDk3NX0.8k6FdeX2dbZhM_8_smIN6VKWEE6UOlAdkR7IEnY6MhY"
+  },
+  {
+    "label": "Regional Director \u2014 Pacific Northwest (OR communities C001-C005)",
+    "sub": "rd.pnw@pinewood.example",
+    "role": "regional_director",
+    "region": "Pacific Northwest",
+    "community_id": null,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJyZC5wbndAcGluZXdvb2QuZXhhbXBsZSIsInJvbGUiOiJyZWdpb25hbF9kaXJlY3RvciIsInJlZ2lvbiI6IlBhY2lmaWMgTm9ydGh3ZXN0IiwiY29tbXVuaXR5X2lkIjpudWxsLCJpYXQiOjE3ODE0Njg5NzUsImV4cCI6MTgxMzAwNDk3NX0.ZN-K3iQ7Sqf7-5Sey1wmesg_6cW4W_3pUP0mWswqgmI"
+  },
+  {
+    "label": "Community Executive Director \u2014 C011 (Pinewood Austin)",
+    "sub": "ed.c011@pinewood.example",
+    "role": "community_ed",
+    "region": null,
+    "community_id": "C011",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlZC5jMDExQHBpbmV3b29kLmV4YW1wbGUiLCJyb2xlIjoiY29tbXVuaXR5X2VkIiwicmVnaW9uIjpudWxsLCJjb21tdW5pdHlfaWQiOiJDMDExIiwiaWF0IjoxNzgxNDY4OTc1LCJleHAiOjE4MTMwMDQ5NzV9.gcC5GL3KebBn3Rb6MdHQIKZ6fRsyyfHWw0FHVzyU4Fw"
+  }
+]

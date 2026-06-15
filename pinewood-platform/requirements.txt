@@ -1,0 +1,17 @@
+# Core pipeline & storage
+pandas>=2.2.3
+duckdb>=1.1.3
+pyarrow>=18.0.0
+
+# API
+fastapi>=0.115.5
+uvicorn[standard]>=0.32.1
+PyJWT>=2.10.1
+python-multipart>=0.0.17
+pydantic>=2.10.3
+
+# Validation reporting
+tabulate>=0.9.0
+
+# Config
+PyYAML>=6.0.2

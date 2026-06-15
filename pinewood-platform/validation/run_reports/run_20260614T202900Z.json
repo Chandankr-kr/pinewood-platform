@@ -1,0 +1,122 @@
+{
+  "started_at": "2026-06-14T20:28:53.408732+00:00",
+  "force": false,
+  "bronze": {
+    "pcc_residents": {
+      "files_loaded_this_run": 0,
+      "rows_loaded_this_run": 0,
+      "total_rows": 4152
+    },
+    "pcc_incidents": {
+      "files_loaded_this_run": 0,
+      "rows_loaded_this_run": 0,
+      "total_rows": 411
+    },
+    "pcc_care_history": {
+      "files_loaded_this_run": 0,
+      "rows_loaded_this_run": 0,
+      "total_rows": 303
+    },
+    "yardi_units": {
+      "files_loaded_this_run": 0,
+      "rows_loaded_this_run": 0,
+      "total_rows": 5490
+    },
+    "yardi_leases": {
+      "files_loaded_this_run": 0,
+      "rows_loaded_this_run": 0,
+      "total_rows": 346
+    },
+    "adp_shifts": {
+      "files_loaded_this_run": 0,
+      "rows_loaded_this_run": 0,
+      "total_rows": 68071
+    },
+    "gbp_reviews": {
+      "files_loaded_this_run": 0,
+      "rows_loaded_this_run": 0,
+      "total_rows": 424
+    },
+    "hubspot_leads": {
+      "files_loaded_this_run": 0,
+      "rows_loaded_this_run": 0,
+      "total_rows": 830
+    }
+  },
+  "silver": {
+    "residents": {
+      "rows": 823,
+      "rejected": 0
+    },
+    "care_history": {
+      "rows": 303
+    },
+    "incidents": {
+      "rows": 411
+    },
+    "units": {
+      "rows": 5490
+    },
+    "leases": {
+      "rows": 302,
+      "rejected": 0
+    },
+    "shifts": {
+      "rows": 68071
+    },
+    "reviews": {
+      "rows": 424
+    },
+    "leads": {
+      "rows": 829
+    },
+    "quarantine": {
+      "rows": 0
+    },
+    "data_quality_flags": {
+      "rows": 1373
+    }
+  },
+  "gold": {
+    "dim_resident_care_scd2": {
+      "rows": 854
+    },
+    "fact_census_monthly": {
+      "rows": 252
+    },
+    "fact_occupancy_monthly": {
+      "rows": 84
+    },
+    "fact_revenue_monthly": {
+      "rows": 84
+    },
+    "fact_labor_monthly": {
+      "rows": 563
+    },
+    "fact_incidents": {
+      "rows": 411
+    },
+    "fact_moveouts": {
+      "rows": 75
+    },
+    "fact_reviews": {
+      "rows": 424
+    },
+    "fact_leads": {
+      "rows": 829
+    },
+    "fact_resident_acuity_monthly": {
+      "rows": 4131
+    },
+    "analytics_views": {
+      "created": "sql/gold_views.sql"
+    }
+  },
+  "duration_seconds": 6.69,
+  "validation": {
+    "status": "ATTENTION",
+    "passed": 17,
+    "total_checks": 18,
+    "anomaly_count": 4
+  }
+}

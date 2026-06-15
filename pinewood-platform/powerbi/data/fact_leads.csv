@@ -1,0 +1,830 @@
+lead_id,community_id,lead_source,created_date,created_month,tour_date,deposit_date,move_in_date,status,lost_reason,toured,deposited
+HL103681,C003,Event,2025-01-16,2025-01-01,,,,Open,"",false,false
+HL104150,C011,Google Ads,2025-04-17,2025-04-01,,,,Open,"",false,false
+HL104622,C014,Print,2025-01-13,2025-01-01,2025-01-30,2025-01-26,2025-03-14,Won,"",true,true
+HL104676,C004,Facebook,2025-04-23,2025-04-01,,,,Open,"",false,false
+HL105029,C008,Event,2025-05-12,2025-05-01,,,,Open,"",false,false
+HL105853,C012,Referral,2025-03-09,2025-03-01,2025-03-30,2025-04-08,2025-05-06,Won,"",true,true
+HL106028,C008,Event,2025-05-15,2025-05-01,,,,Open,"",false,false
+HL109388,C001,Event,2025-04-28,2025-04-01,,,,Open,"",false,false
+HL112384,C007,Google Ads,2025-02-06,2025-02-01,2025-02-24,,,Lost,Other,true,false
+HL112715,C006,Facebook,2025-04-27,2025-04-01,2025-05-09,,,Lost,Health Decline,true,false
+HL115043,C012,Web Inquiry,2025-03-18,2025-03-01,2025-04-08,,,Lost,Stayed Home,true,false
+HL115956,C005,Google Ads,2025-04-16,2025-04-01,,2025-05-23,2025-05-31,Won,"",false,true
+HL117165,C008,Event,2025-05-18,2025-05-01,,,,Open,"",false,false
+HL117897,C005,Google Ads,2025-02-09,2025-02-01,,,,Open,"",false,false
+HL117907,C007,Referral,2025-02-19,2025-02-01,2025-02-25,,,Lost,Other,true,false
+HL117969,C014,Walk-in,2025-02-07,2025-02-01,,,,Lost,Stayed Home,false,false
+HL119726,C012,Google Ads,2025-01-02,2025-01-01,,,,Open,"",false,false
+HL119789,C003,Google Ads,2025-05-03,2025-05-01,2025-05-17,,,Lost,Affordability,true,false
+HL120259,C014,Facebook,2025-02-13,2025-02-01,2025-03-01,,,Lost,Health Decline,true,false
+HL120658,C003,Google Ads,2025-01-21,2025-01-01,2025-01-30,,,Lost,Health Decline,true,false
+HL122642,C007,Event,2025-04-09,2025-04-01,,,,Lost,Stayed Home,false,false
+HL124441,C014,Walk-in,2025-04-24,2025-04-01,,,,Lost,Stayed Home,false,false
+HL124989,C002,Walk-in,2025-01-04,2025-01-01,,2025-01-22,2025-02-08,Won,"",false,true
+HL125068,C010,Walk-in,2025-05-23,2025-05-01,2025-05-27,,,Lost,Health Decline,true,false
+HL125843,C011,Print,2025-06-17,2025-06-01,,,,Lost,Health Decline,false,false
+HL125979,C006,Print,2025-03-27,2025-03-01,2025-04-14,,,Lost,Affordability,true,false
+HL129266,C004,Google Ads,2025-02-03,2025-02-01,2025-02-10,2025-02-15,2025-03-22,Won,"",true,true
+HL132032,C012,Google Ads,2025-02-13,2025-02-01,2025-03-02,,,Lost,Affordability,true,false
+HL132053,C001,Print,2025-06-10,2025-06-01,2025-06-15,2025-07-19,2025-08-08,Won,"",true,true
+HL138836,C003,Google Ads,2025-04-05,2025-04-01,2025-04-12,,,Lost,Chose Competitor,true,false
+HL140835,C002,Referral,2025-01-13,2025-01-01,,,,Open,"",false,false
+HL140963,C004,Walk-in,2025-01-27,2025-01-01,2025-02-17,2025-02-22,2025-03-01,Won,"",true,true
+HL141921,C001,Walk-in,2025-06-10,2025-06-01,2025-06-14,,,Lost,Chose Competitor,true,false
+HL143766,C014,Event,2025-06-27,2025-06-01,2025-07-04,,,Lost,Other,true,false
+HL144113,C012,Facebook,2025-02-17,2025-02-01,2025-02-20,2025-03-22,2025-04-01,Won,"",true,true
+HL144429,C012,Event,2025-01-01,2025-01-01,2025-01-19,,,Lost,Chose Competitor,true,false
+HL144871,C014,Referral,2025-05-10,2025-05-01,,,,Lost,Stayed Home,false,false
+HL144892,C010,Event,2025-01-23,2025-01-01,,,,Open,"",false,false
+HL146452,C002,Google Ads,2025-05-01,2025-05-01,2025-05-22,,,Lost,Affordability,true,false
+HL147635,C014,Walk-in,2025-04-06,2025-04-01,,,,Lost,Chose Competitor,false,false
+HL147934,C005,Print,2025-03-18,2025-03-01,,,,Open,"",false,false
+HL150149,C002,Google Ads,2025-06-14,2025-06-01,2025-06-25,,,Lost,Other,true,false
+HL151177,C004,Facebook,2025-04-28,2025-04-01,2025-05-10,2025-06-05,2025-06-04,Won,"",true,true
+HL152761,C006,Walk-in,2025-01-02,2025-01-01,,,,Lost,Chose Competitor,false,false
+HL153398,C005,Facebook,2025-02-20,2025-02-01,2025-03-07,,,Lost,Chose Competitor,true,false
+HL153458,C010,Facebook,2025-05-18,2025-05-01,2025-05-26,,,Lost,Other,true,false
+HL154512,C003,Facebook,2025-06-24,2025-06-01,,,,Open,"",false,false
+HL156945,C008,Event,2025-04-16,2025-04-01,,,,Lost,Health Decline,false,false
+HL156963,C005,Facebook,2025-02-15,2025-02-01,,,,Lost,Affordability,false,false
+HL157798,C004,Web Inquiry,2025-05-25,2025-05-01,,,,Lost,Stayed Home,false,false
+HL159439,C003,Walk-in,2025-03-07,2025-03-01,,,,Open,"",false,false
+HL159484,C012,Print,2025-01-17,2025-01-01,,,,Open,"",false,false
+HL161570,C014,Google Ads,2025-06-06,2025-06-01,,,,Open,"",false,false
+HL163570,C005,Facebook,2025-04-02,2025-04-01,,,,Lost,Chose Competitor,false,false
+HL164099,C011,Event,2025-05-08,2025-05-01,,,,Open,"",false,false
+HL164397,C009,Web Inquiry,2025-05-25,2025-05-01,,,,Open,"",false,false
+HL165807,C008,Google Ads,2025-05-24,2025-05-01,2025-06-13,,,Lost,Other,true,false
+HL167175,C004,Event,2025-02-07,2025-02-01,,2025-02-21,2025-03-17,Won,"",false,true
+HL167721,C009,Web Inquiry,2025-01-25,2025-01-01,,,,Open,"",false,false
+HL168663,C008,Walk-in,2025-05-07,2025-05-01,2025-05-19,,,Lost,Affordability,true,false
+HL170838,C009,Print,2025-03-06,2025-03-01,2025-03-10,,,Lost,Affordability,true,false
+HL173673,C001,Google Ads,2025-02-09,2025-02-01,,,,Open,"",false,false
+HL173720,C011,Web Inquiry,2025-05-12,2025-05-01,,,,Open,"",false,false
+HL174185,C007,Event,2025-04-27,2025-04-01,,2025-05-12,2025-05-19,Won,"",false,true
+HL175066,C008,Referral,2025-01-23,2025-01-01,,2025-02-12,2025-03-10,Won,"",false,true
+HL176240,C012,Facebook,2025-04-04,2025-04-01,2025-04-10,,,Lost,Other,true,false
+HL177820,C006,Walk-in,2025-05-28,2025-05-01,,,,Lost,Affordability,false,false
+HL177864,C003,Google Ads,2025-06-22,2025-06-01,2025-07-07,,,Lost,Chose Competitor,true,false
+HL181347,C011,Print,2025-04-18,2025-04-01,2025-04-28,,,Lost,Health Decline,true,false
+HL182583,C007,Web Inquiry,2025-01-08,2025-01-01,,,,Lost,Affordability,false,false
+HL184264,C002,Google Ads,2025-06-19,2025-06-01,,2025-07-20,2025-07-26,Won,"",false,true
+HL186636,C001,Walk-in,2025-06-07,2025-06-01,,,,Lost,Other,false,false
+HL187276,C009,Web Inquiry,2025-02-23,2025-02-01,,,,Open,"",false,false
+HL187440,C004,Event,2025-02-19,2025-02-01,2025-02-28,2025-03-16,2025-04-07,Won,"",true,true
+HL187944,C011,Google Ads,2025-03-16,2025-03-01,,,,Lost,Chose Competitor,false,false
+HL190149,C010,Google Ads,2025-02-13,2025-02-01,,,,Lost,Affordability,false,false
+HL193280,C008,Walk-in,2025-03-02,2025-03-01,2025-03-15,,,Lost,Other,true,false
+HL195601,C008,Web Inquiry,2025-01-10,2025-01-01,,,,Lost,Health Decline,false,false
+HL196770,C005,Facebook,2025-04-16,2025-04-01,,,,Open,"",false,false
+HL197577,C001,Referral,2025-02-06,2025-02-01,,,,Lost,Affordability,false,false
+HL197799,C002,Print,2025-06-22,2025-06-01,2025-06-30,,,Lost,Other,true,false
+HL198607,C007,Print,2025-04-25,2025-04-01,,,,Lost,Health Decline,false,false
+HL199844,C002,Web Inquiry,2025-03-03,2025-03-01,2025-03-19,2025-03-14,2025-05-01,Won,"",true,true
+HL200979,C014,Walk-in,2025-03-26,2025-03-01,,,,Lost,Chose Competitor,false,false
+HL201723,C003,Google Ads,2025-05-24,2025-05-01,,,,Open,"",false,false
+HL204254,C003,Walk-in,2025-03-18,2025-03-01,2025-04-05,,,Lost,Affordability,true,false
+HL204890,C013,Print,2025-04-25,2025-04-01,,,,Open,"",false,false
+HL205186,C006,Event,2025-05-07,2025-05-01,,2025-05-28,2025-05-28,Won,"",false,true
+HL205861,C005,Web Inquiry,2025-05-03,2025-05-01,,,,Open,"",false,false
+HL207514,C002,Event,2025-06-23,2025-06-01,2025-07-06,2025-07-31,2025-07-21,Won,"",true,true
+HL207813,C003,Google Ads,2025-03-05,2025-03-01,2025-03-21,,,Lost,Other,true,false
+HL207910,C008,Event,2025-01-12,2025-01-01,,,,Lost,Chose Competitor,false,false
+HL208614,C001,Print,2025-05-28,2025-05-01,2025-06-02,,,Lost,Health Decline,true,false
+HL209922,C004,Referral,2025-03-13,2025-03-01,,,,Open,"",false,false
+HL212320,C008,Web Inquiry,2025-06-04,2025-06-01,2025-06-09,,,Lost,Chose Competitor,true,false
+HL212507,C008,Web Inquiry,2025-06-19,2025-06-01,,,,Open,"",false,false
+HL212725,C013,Web Inquiry,2025-03-19,2025-03-01,2025-04-04,,,Lost,Other,true,false
+HL214134,C008,Google Ads,2025-05-05,2025-05-01,2025-05-11,,,Lost,Affordability,true,false
+HL216027,C007,Print,2025-03-01,2025-03-01,,,,Open,"",false,false
+HL216180,C009,Event,2025-01-23,2025-01-01,,,,Lost,Chose Competitor,false,false
+HL218751,C005,Google Ads,2025-04-01,2025-04-01,,,,Lost,Stayed Home,false,false
+HL218922,C013,Print,2025-02-18,2025-02-01,2025-03-05,,,Lost,Other,true,false
+HL219044,C003,Walk-in,2025-05-05,2025-05-01,,,,Open,"",false,false
+HL219435,C004,Referral,2025-06-20,2025-06-01,2025-07-01,,,Lost,Chose Competitor,true,false
+HL220184,C008,Facebook,2025-04-25,2025-04-01,,,,Lost,Health Decline,false,false
+HL220631,C006,Event,2025-01-08,2025-01-01,2025-01-11,,,Lost,Stayed Home,true,false
+HL220857,C006,Google Ads,2025-06-10,2025-06-01,,,,Lost,Chose Competitor,false,false
+HL223580,C007,Referral,2025-01-02,2025-01-01,,,,Lost,Other,false,false
+HL225685,C009,Google Ads,2025-01-14,2025-01-01,2025-01-24,2025-02-04,2025-03-12,Won,"",true,true
+HL226110,C006,Referral,2025-04-19,2025-04-01,,,,Open,"",false,false
+HL226755,C009,Google Ads,2025-03-24,2025-03-01,,,,Lost,Stayed Home,false,false
+HL227742,C011,Facebook,2025-03-17,2025-03-01,2025-03-28,,,Lost,Chose Competitor,true,false
+HL230978,C008,Event,2025-02-12,2025-02-01,,,,Open,"",false,false
+HL232956,C004,Event,2025-04-07,2025-04-01,2025-04-11,,,Lost,Chose Competitor,true,false
+HL234781,C011,Google Ads,2025-03-06,2025-03-01,,,,Open,"",false,false
+HL234838,C009,Google Ads,2025-01-12,2025-01-01,2025-01-19,2025-02-21,2025-02-21,Won,"",true,true
+HL238260,C010,Print,2025-04-26,2025-04-01,2025-05-15,2025-05-12,2025-05-21,Won,"",true,true
+HL238867,C005,Web Inquiry,2025-02-20,2025-02-01,2025-02-26,,,Lost,Chose Competitor,true,false
+HL240191,C007,Event,2025-01-06,2025-01-01,,,,Open,"",false,false
+HL243130,C005,Facebook,2025-01-25,2025-01-01,2025-01-28,2025-02-22,2025-03-06,Won,"",true,true
+HL243802,C006,Google Ads,2025-06-09,2025-06-01,2025-06-14,,,Lost,Other,true,false
+HL243932,C003,Print,2025-06-26,2025-06-01,2025-07-08,2025-07-10,2025-08-12,Won,"",true,true
+HL243963,C012,Event,2025-05-19,2025-05-01,,,,Open,"",false,false
+HL247415,C009,Google Ads,2025-05-23,2025-05-01,2025-06-10,,,Lost,Health Decline,true,false
+HL249426,C007,Print,2025-02-12,2025-02-01,2025-03-03,,,Lost,Stayed Home,true,false
+HL249601,C012,Web Inquiry,2025-05-25,2025-05-01,,,,Lost,Other,false,false
+HL250129,C002,Print,2025-02-14,2025-02-01,,,,Open,"",false,false
+HL251377,C009,Web Inquiry,2025-01-20,2025-01-01,2025-02-09,,,Lost,Other,true,false
+HL254467,C009,Print,2025-01-21,2025-01-01,2025-02-03,,,Lost,Health Decline,true,false
+HL255415,C009,Walk-in,2025-05-23,2025-05-01,,,,Open,"",false,false
+HL257274,C008,Google Ads,2025-06-26,2025-06-01,,,,Lost,Chose Competitor,false,false
+HL258739,C005,Web Inquiry,2025-05-11,2025-05-01,2025-05-25,,,Lost,Other,true,false
+HL258751,C012,Referral,2025-05-12,2025-05-01,2025-05-24,,,Lost,Chose Competitor,true,false
+HL259074,C011,Referral,2025-02-09,2025-02-01,,,,Open,"",false,false
+HL260387,C009,Web Inquiry,2025-05-25,2025-05-01,2025-05-31,2025-06-09,2025-06-28,Won,"",true,true
+HL260652,C014,Web Inquiry,2025-06-05,2025-06-01,,,,Open,"",false,false
+HL261020,C004,Google Ads,2025-01-06,2025-01-01,,,,Open,"",false,false
+HL261241,C011,Web Inquiry,2025-02-02,2025-02-01,,,,Lost,Health Decline,false,false
+HL262562,C009,Referral,2025-04-27,2025-04-01,2025-05-05,,,Lost,Health Decline,true,false
+HL262984,C001,Print,2025-02-04,2025-02-01,,,,Open,"",false,false
+HL263225,C013,Referral,2025-04-05,2025-04-01,,2025-04-17,2025-04-25,Won,"",false,true
+HL263316,C009,Facebook,2025-06-01,2025-06-01,,,,Lost,Affordability,false,false
+HL268664,C014,Referral,2025-02-22,2025-02-01,2025-03-07,,,Lost,Affordability,true,false
+HL269880,C011,Walk-in,2025-04-19,2025-04-01,2025-05-10,,,Lost,Health Decline,true,false
+HL269982,C014,Referral,2025-01-23,2025-01-01,,,,Open,"",false,false
+HL270000,C011,Google Ads,2025-06-27,2025-06-01,2025-07-08,,,Lost,Affordability,true,false
+HL270222,C008,Facebook,2025-02-09,2025-02-01,2025-02-18,,,Lost,Affordability,true,false
+HL270567,C010,Event,2025-03-12,2025-03-01,2025-03-18,,,Lost,Chose Competitor,true,false
+HL271183,C002,Walk-in,2025-05-24,2025-05-01,,,,Open,"",false,false
+HL271676,C003,Facebook,2025-06-20,2025-06-01,2025-07-09,,,Lost,Stayed Home,true,false
+HL272277,C009,Google Ads,2025-04-11,2025-04-01,,,,Open,"",false,false
+HL272510,C010,Print,2025-03-06,2025-03-01,,,,Lost,Other,false,false
+HL275168,C002,Google Ads,2025-06-19,2025-06-01,,,,Open,"",false,false
+HL275190,C002,Google Ads,2025-01-22,2025-01-01,,,,Open,"",false,false
+HL275297,C012,Web Inquiry,2025-06-08,2025-06-01,,,,Open,"",false,false
+HL276556,C009,Google Ads,2025-04-17,2025-04-01,,2025-05-10,2025-05-26,Won,"",false,true
+HL276922,C014,Facebook,2025-01-02,2025-01-01,,,,Open,"",false,false
+HL278386,C012,Print,2025-01-04,2025-01-01,,,,Open,"",false,false
+HL278427,C007,Walk-in,2025-04-21,2025-04-01,2025-04-30,,,Lost,Stayed Home,true,false
+HL280672,C003,Facebook,2025-04-17,2025-04-01,,,,Lost,Stayed Home,false,false
+HL281199,C003,Web Inquiry,2025-01-08,2025-01-01,,,,Open,"",false,false
+HL283517,C011,Facebook,2025-03-04,2025-03-01,2025-03-24,,,Lost,Other,true,false
+HL285217,C008,Web Inquiry,2025-02-21,2025-02-01,,,,Lost,Stayed Home,false,false
+HL286394,C013,Facebook,2025-04-25,2025-04-01,,,,Open,"",false,false
+HL288714,C012,Facebook,2025-06-03,2025-06-01,2025-06-20,,,Lost,Affordability,true,false
+HL289081,C009,Walk-in,2025-05-07,2025-05-01,,,,Lost,Other,false,false
+HL289180,C013,Web Inquiry,2025-03-14,2025-03-01,,2025-03-24,2025-04-19,Won,"",false,true
+HL290164,C012,Event,2025-01-06,2025-01-01,,,,Lost,Other,false,false
+HL290255,C004,Facebook,2025-01-23,2025-01-01,2025-02-10,,,Lost,Affordability,true,false
+HL290433,C005,Facebook,2025-03-04,2025-03-01,2025-03-23,,,Lost,Affordability,true,false
+HL291975,C007,Google Ads,2025-04-23,2025-04-01,2025-05-06,2025-05-11,2025-06-01,Won,"",true,true
+HL292678,C009,Google Ads,2025-03-09,2025-03-01,2025-03-25,,,Lost,Affordability,true,false
+HL292869,C001,Google Ads,2025-03-12,2025-03-01,2025-03-18,2025-03-26,2025-05-04,Won,"",true,true
+HL293139,C004,Referral,2025-05-03,2025-05-01,2025-05-07,2025-06-06,2025-06-05,Won,"",true,true
+HL293461,C002,Referral,2025-01-27,2025-01-01,2025-02-01,2025-02-16,2025-02-19,Won,"",true,true
+HL294246,C011,Print,2025-06-14,2025-06-01,,,,Open,"",false,false
+HL295425,C014,Event,2025-05-23,2025-05-01,,,,Open,"",false,false
+HL299070,C014,Print,2025-06-16,2025-06-01,2025-07-05,2025-07-24,2025-08-05,Won,"",true,true
+HL301429,C004,Print,2025-04-12,2025-04-01,2025-04-16,,,Lost,Other,true,false
+HL302950,C010,Web Inquiry,2025-05-25,2025-05-01,,,,Open,"",false,false
+HL305519,C004,Google Ads,2025-05-09,2025-05-01,,,,Lost,Health Decline,false,false
+HL306230,C004,Google Ads,2025-01-07,2025-01-01,2025-01-18,,,Lost,Stayed Home,true,false
+HL306744,C013,Event,2025-06-13,2025-06-01,2025-06-20,,,Lost,Other,true,false
+HL306893,C008,Walk-in,2025-04-01,2025-04-01,,,,Lost,Other,false,false
+HL308196,C006,Event,2025-04-10,2025-04-01,2025-04-28,,,Lost,Health Decline,true,false
+HL309638,C009,Facebook,2025-02-08,2025-02-01,,,,Open,"",false,false
+HL311744,C006,Event,2025-03-13,2025-03-01,2025-03-20,,,Lost,Affordability,true,false
+HL312235,C013,Walk-in,2025-06-06,2025-06-01,,2025-07-02,2025-07-18,Won,"",false,true
+HL312754,C013,Print,2025-04-17,2025-04-01,,,,Lost,Health Decline,false,false
+HL313389,C005,Walk-in,2025-06-28,2025-06-01,2025-07-19,,,Lost,Chose Competitor,true,false
+HL314898,C001,Walk-in,2025-06-25,2025-06-01,2025-07-12,2025-07-17,2025-08-01,Won,"",true,true
+HL315349,C011,Referral,2025-06-11,2025-06-01,,,,Lost,Stayed Home,false,false
+HL315728,C005,Google Ads,2025-06-24,2025-06-01,,,,Lost,Chose Competitor,false,false
+HL316257,C001,Print,2025-01-02,2025-01-01,,,,Open,"",false,false
+HL316667,C009,Event,2025-01-21,2025-01-01,,,,Open,"",false,false
+HL317023,C011,Event,2025-04-04,2025-04-01,2025-04-11,2025-04-28,2025-04-29,Won,"",true,true
+HL318962,C002,Referral,2025-03-16,2025-03-01,2025-03-27,,,Lost,Stayed Home,true,false
+HL320768,C008,Walk-in,2025-05-19,2025-05-01,,,,Open,"",false,false
+HL321809,C008,Walk-in,2025-05-08,2025-05-01,2025-05-27,,,Lost,Stayed Home,true,false
+HL322181,C007,Print,2025-03-27,2025-03-01,2025-04-01,,,Lost,Chose Competitor,true,false
+HL323545,C005,Print,2025-02-06,2025-02-01,,,,Open,"",false,false
+HL326559,C005,Print,2025-04-16,2025-04-01,,,,Lost,Health Decline,false,false
+HL326748,C010,Web Inquiry,2025-01-26,2025-01-01,,,,Lost,Chose Competitor,false,false
+HL327799,C004,Event,2025-06-01,2025-06-01,,,,Open,"",false,false
+HL328001,C007,Print,2025-05-06,2025-05-01,,,,Open,"",false,false
+HL328628,C002,Web Inquiry,2025-01-21,2025-01-01,,,,Open,"",false,false
+HL329267,C013,Event,2025-01-19,2025-01-01,2025-02-05,2025-02-04,2025-03-03,Won,"",true,true
+HL332120,C014,Event,2025-04-21,2025-04-01,2025-05-10,,,Lost,Affordability,true,false
+HL333170,C006,Web Inquiry,2025-06-02,2025-06-01,,,,Lost,Affordability,false,false
+HL333460,C010,Referral,2025-01-16,2025-01-01,,,,Open,"",false,false
+HL336437,C006,Walk-in,2025-04-01,2025-04-01,,,,Lost,Other,false,false
+HL338229,C001,Walk-in,2025-06-07,2025-06-01,,,,Open,"",false,false
+HL338827,C009,Event,2025-01-26,2025-01-01,,,,Lost,Affordability,false,false
+HL339612,C012,Web Inquiry,2025-02-06,2025-02-01,,,,Lost,Stayed Home,false,false
+HL340122,C010,Referral,2025-03-13,2025-03-01,2025-03-22,,,Lost,Chose Competitor,true,false
+HL340151,C001,Event,2025-04-24,2025-04-01,,,,Lost,Other,false,false
+HL341158,C013,Event,2025-06-16,2025-06-01,2025-06-30,,,Lost,Affordability,true,false
+HL342433,C007,Referral,2025-06-24,2025-06-01,,,,Open,"",false,false
+HL342473,C004,Referral,2025-03-26,2025-03-01,,,,Open,"",false,false
+HL342830,C012,Facebook,2025-02-23,2025-02-01,,,,Lost,Affordability,false,false
+HL344971,C013,Event,2025-03-25,2025-03-01,2025-04-13,2025-04-26,2025-05-13,Won,"",true,true
+HL345001,C011,Referral,2025-03-28,2025-03-01,2025-04-18,,,Lost,Health Decline,true,false
+HL345542,C013,Google Ads,2025-01-23,2025-01-01,2025-02-10,2025-02-15,2025-03-03,Won,"",true,true
+HL345617,C001,Walk-in,2025-03-13,2025-03-01,,,,Open,"",false,false
+HL347829,C013,Event,2025-02-02,2025-02-01,2025-02-18,,,Lost,Affordability,true,false
+HL349078,C005,Facebook,2025-05-19,2025-05-01,2025-05-29,,,Lost,Other,true,false
+HL350922,C012,Google Ads,2025-05-13,2025-05-01,,,,Open,"",false,false
+HL351396,C010,Google Ads,2025-01-17,2025-01-01,,,,Open,"",false,false
+HL353263,C010,Facebook,2025-01-02,2025-01-01,,,,Open,"",false,false
+HL354142,C008,Referral,2025-04-28,2025-04-01,,,,Lost,Chose Competitor,false,false
+HL355312,C011,Walk-in,2025-04-05,2025-04-01,,,,Open,"",false,false
+HL357524,C009,Event,2025-06-12,2025-06-01,2025-06-29,2025-06-24,2025-07-15,Won,"",true,true
+HL357696,C010,Print,2025-02-02,2025-02-01,,,,Open,"",false,false
+HL358817,C002,Web Inquiry,2025-05-15,2025-05-01,2025-05-25,,,Lost,Stayed Home,true,false
+HL359510,C006,Walk-in,2025-04-02,2025-04-01,2025-04-07,,,Lost,Health Decline,true,false
+HL360549,C012,Web Inquiry,2025-05-03,2025-05-01,2025-05-08,,,Lost,Stayed Home,true,false
+HL361578,C008,Event,2025-03-23,2025-03-01,,,,Open,"",false,false
+HL362804,C003,Web Inquiry,2025-05-24,2025-05-01,2025-05-30,,,Lost,Health Decline,true,false
+HL363650,C012,Print,2025-04-08,2025-04-01,2025-04-22,2025-05-08,2025-04-30,Won,"",true,true
+HL365180,C013,Walk-in,2025-01-14,2025-01-01,2025-02-02,,,Lost,Affordability,true,false
+HL365234,C001,Web Inquiry,2025-01-15,2025-01-01,,,,Open,"",false,false
+HL365422,C011,Facebook,2025-03-25,2025-03-01,2025-04-08,,,Lost,Stayed Home,true,false
+HL367177,C009,Google Ads,2025-01-05,2025-01-01,,,,Open,"",false,false
+HL367930,C013,Referral,2025-01-01,2025-01-01,2025-01-08,2025-02-03,2025-02-06,Won,"",true,true
+HL367970,C012,Event,2025-05-15,2025-05-01,,,,Open,"",false,false
+HL370129,C011,Google Ads,2025-06-16,2025-06-01,,,,Open,"",false,false
+HL370557,C012,Facebook,2025-01-17,2025-01-01,,2025-01-28,2025-03-14,Won,"",false,true
+HL372004,C001,Referral,2025-05-03,2025-05-01,,,,Open,"",false,false
+HL372312,C006,Walk-in,2025-04-23,2025-04-01,,,,Open,"",false,false
+HL372771,C013,Facebook,2025-01-17,2025-01-01,2025-01-28,2025-02-09,2025-02-15,Won,"",true,true
+HL373311,C006,Web Inquiry,2025-05-26,2025-05-01,,,,Lost,Chose Competitor,false,false
+HL381281,C005,Event,2025-05-01,2025-05-01,2025-05-20,2025-05-22,2025-06-20,Won,"",true,true
+HL383069,C012,Google Ads,2025-01-04,2025-01-01,2025-01-10,,,Lost,Stayed Home,true,false
+HL384486,C013,Walk-in,2025-06-28,2025-06-01,2025-07-01,2025-07-22,2025-08-05,Won,"",true,true
+HL385196,C011,Google Ads,2025-05-10,2025-05-01,,,,Lost,Health Decline,false,false
+HL385264,C003,Event,2025-06-24,2025-06-01,2025-07-12,2025-08-02,2025-07-27,Won,"",true,true
+HL388443,C013,Event,2025-06-08,2025-06-01,2025-06-29,,,Lost,Stayed Home,true,false
+HL389608,C005,Walk-in,2025-04-07,2025-04-01,,,,Lost,Other,false,false
+HL391186,C010,Event,2025-02-07,2025-02-01,,,,Lost,Chose Competitor,false,false
+HL394032,C003,Walk-in,2025-05-14,2025-05-01,2025-05-17,,,Lost,Chose Competitor,true,false
+HL395579,C010,Web Inquiry,2025-05-16,2025-05-01,2025-06-03,,,Lost,Stayed Home,true,false
+HL396244,C001,Google Ads,2025-04-22,2025-04-01,,,,Open,"",false,false
+HL397380,C007,Google Ads,2025-01-05,2025-01-01,2025-01-19,,,Lost,Health Decline,true,false
+HL401537,C010,Google Ads,2025-01-03,2025-01-01,2025-01-06,,,Lost,Chose Competitor,true,false
+HL402236,C012,Event,2025-05-11,2025-05-01,,,,Open,"",false,false
+HL404846,C007,Web Inquiry,2025-06-14,2025-06-01,2025-07-01,2025-07-17,2025-08-08,Won,"",true,true
+HL405243,C001,Facebook,2025-03-22,2025-03-01,,,,Open,"",false,false
+HL407212,C001,Google Ads,2025-06-25,2025-06-01,2025-06-30,2025-07-19,2025-08-06,Won,"",true,true
+HL408501,C012,Walk-in,2025-01-25,2025-01-01,,,,Open,"",false,false
+HL411003,C010,Print,2025-06-28,2025-06-01,2025-07-12,,,Lost,Chose Competitor,true,false
+HL412328,C008,Print,2025-02-02,2025-02-01,,,,Lost,Affordability,false,false
+HL412534,C001,Web Inquiry,2025-06-10,2025-06-01,,,,Open,"",false,false
+HL412645,C008,Facebook,2025-04-13,2025-04-01,,,,Open,"",false,false
+HL413528,C002,Print,2025-06-17,2025-06-01,2025-06-29,2025-07-07,2025-07-21,Won,"",true,true
+HL415242,C004,Event,2025-06-22,2025-06-01,2025-07-13,2025-07-25,2025-08-13,Won,"",true,true
+HL415343,C014,Event,2025-05-04,2025-05-01,,,,Lost,Stayed Home,false,false
+HL416129,C009,Google Ads,2025-03-27,2025-03-01,2025-04-04,,,Lost,Other,true,false
+HL416322,C007,Web Inquiry,2025-01-07,2025-01-01,2025-01-19,,,Lost,Stayed Home,true,false
+HL417030,C001,Web Inquiry,2025-04-28,2025-04-01,,,,Open,"",false,false
+HL423528,C010,Referral,2025-03-20,2025-03-01,,,,Open,"",false,false
+HL424830,C011,Walk-in,2025-04-04,2025-04-01,,,,Open,"",false,false
+HL426573,C006,Google Ads,2025-04-02,2025-04-01,2025-04-09,2025-04-16,2025-05-29,Won,"",true,true
+HL429133,C004,Walk-in,2025-04-23,2025-04-01,,,,Open,"",false,false
+HL429147,C009,Google Ads,2025-04-10,2025-04-01,2025-04-19,,,Lost,Health Decline,true,false
+HL429917,C010,Google Ads,2025-05-02,2025-05-01,2025-05-10,,,Lost,Health Decline,true,false
+HL431089,C011,Web Inquiry,2025-02-06,2025-02-01,2025-02-27,,,Lost,Chose Competitor,true,false
+HL432151,C010,Web Inquiry,2025-05-03,2025-05-01,2025-05-07,,,Lost,Chose Competitor,true,false
+HL432922,C014,Referral,2025-01-02,2025-01-01,2025-01-21,2025-01-23,2025-01-24,Won,"",true,true
+HL433629,C014,Walk-in,2025-05-27,2025-05-01,,2025-06-15,2025-07-15,Won,"",false,true
+HL436235,C004,Walk-in,2025-04-05,2025-04-01,2025-04-23,2025-04-15,2025-05-28,Won,"",true,true
+HL436591,C014,Facebook,2025-05-05,2025-05-01,,,,Lost,Affordability,false,false
+HL437545,C004,Web Inquiry,2025-04-06,2025-04-01,,,,Open,"",false,false
+HL438338,C010,Event,2025-05-19,2025-05-01,2025-05-28,,,Lost,Chose Competitor,true,false
+HL438858,C008,Print,2025-04-19,2025-04-01,2025-05-02,,,Lost,Affordability,true,false
+HL439985,C013,Referral,2025-06-25,2025-06-01,,,,Open,"",false,false
+HL442191,C001,Walk-in,2025-05-03,2025-05-01,,,,Lost,Chose Competitor,false,false
+HL443482,C012,Referral,2025-02-16,2025-02-01,,,,Open,"",false,false
+HL444296,C012,Print,2025-03-11,2025-03-01,2025-03-16,,,Lost,Affordability,true,false
+HL444306,C012,Event,2025-06-09,2025-06-01,,,,Open,"",false,false
+HL446295,C011,Facebook,2025-01-02,2025-01-01,2025-01-18,2025-02-09,2025-02-06,Won,"",true,true
+HL448200,C010,Referral,2025-03-15,2025-03-01,,2025-04-05,2025-04-14,Won,"",false,true
+HL448429,C008,Print,2025-04-06,2025-04-01,,,,Open,"",false,false
+HL449015,C006,Referral,2025-04-28,2025-04-01,2025-05-18,,,Lost,Health Decline,true,false
+HL449077,C014,Facebook,2025-05-20,2025-05-01,2025-06-01,2025-06-25,2025-06-15,Won,"",true,true
+HL450736,C007,Referral,2025-05-26,2025-05-01,2025-06-14,2025-06-13,2025-07-10,Won,"",true,true
+HL457100,C012,Referral,2025-03-13,2025-03-01,2025-03-27,2025-03-24,2025-05-03,Won,"",true,true
+HL459766,C012,Print,2025-06-03,2025-06-01,2025-06-11,,,Lost,Chose Competitor,true,false
+HL460106,C014,Referral,2025-06-25,2025-06-01,,2025-07-21,2025-08-10,Won,"",false,true
+HL461089,C009,Event,2025-03-23,2025-03-01,,2025-04-18,2025-05-21,Won,"",false,true
+HL463087,C014,Google Ads,2025-02-28,2025-02-01,2025-03-20,,,Lost,Stayed Home,true,false
+HL463293,C010,Event,2025-05-09,2025-05-01,,,,Open,"",false,false
+HL463380,C006,Walk-in,2025-02-15,2025-02-01,,,,Open,"",false,false
+HL463662,C012,Web Inquiry,2025-05-26,2025-05-01,2025-05-29,2025-06-11,2025-06-15,Won,"",true,true
+HL463762,C004,Web Inquiry,2025-04-21,2025-04-01,,,,Open,"",false,false
+HL463882,C005,Print,2025-02-17,2025-02-01,2025-03-06,2025-03-14,2025-04-11,Won,"",true,true
+HL466623,C006,Google Ads,2025-06-19,2025-06-01,,,,Open,"",false,false
+HL467473,C011,Event,2025-06-28,2025-06-01,,,,Open,"",false,false
+HL469571,C001,Walk-in,2025-06-20,2025-06-01,,,,Lost,Health Decline,false,false
+HL470656,C003,Walk-in,2025-02-12,2025-02-01,2025-02-23,,,Lost,Other,true,false
+HL470923,C002,Walk-in,2025-04-21,2025-04-01,,,,Open,"",false,false
+HL473707,C001,Web Inquiry,2025-02-11,2025-02-01,,,,Open,"",false,false
+HL474275,C004,Walk-in,2025-02-04,2025-02-01,2025-02-22,,,Lost,Other,true,false
+HL474354,C012,Facebook,2025-03-17,2025-03-01,2025-03-29,,,Lost,Affordability,true,false
+HL474577,C003,Web Inquiry,2025-02-25,2025-02-01,2025-03-13,,,Lost,Other,true,false
+HL477225,C003,Referral,2025-02-16,2025-02-01,,,,Lost,Health Decline,false,false
+HL479290,C003,Web Inquiry,2025-01-23,2025-01-01,2025-02-13,,,Lost,Other,true,false
+HL479418,C004,Referral,2025-06-14,2025-06-01,2025-06-18,2025-07-18,2025-07-21,Won,"",true,true
+HL480513,C003,Facebook,2025-03-12,2025-03-01,2025-03-29,2025-04-14,2025-05-03,Won,"",true,true
+HL482117,C002,Web Inquiry,2025-02-09,2025-02-01,2025-02-16,2025-03-17,2025-03-24,Won,"",true,true
+HL482474,C005,Event,2025-02-01,2025-02-01,,,,Open,"",false,false
+HL482746,C012,Print,2025-05-03,2025-05-01,,,,Open,"",false,false
+HL482843,C011,Google Ads,2025-04-13,2025-04-01,2025-04-30,,,Lost,Other,true,false
+HL484213,C014,Walk-in,2025-01-15,2025-01-01,,,,Open,"",false,false
+HL484329,C003,Referral,2025-06-20,2025-06-01,2025-07-05,,,Lost,Affordability,true,false
+HL486527,C011,Walk-in,2025-02-02,2025-02-01,,,,Open,"",false,false
+HL488043,C007,Referral,2025-02-10,2025-02-01,2025-02-14,,,Lost,Stayed Home,true,false
+HL490307,C005,Google Ads,2025-01-25,2025-01-01,,,,Lost,Affordability,false,false
+HL490746,C008,Facebook,2025-02-15,2025-02-01,2025-03-05,,,Lost,Other,true,false
+HL491122,C011,Google Ads,2025-04-02,2025-04-01,2025-04-14,,,Lost,Other,true,false
+HL491795,C009,Facebook,2025-06-26,2025-06-01,,,,Open,"",false,false
+HL492180,C011,Web Inquiry,2025-06-23,2025-06-01,,,,Lost,Chose Competitor,false,false
+HL492877,C009,Print,2025-06-07,2025-06-01,2025-06-16,,,Lost,Affordability,true,false
+HL495256,C006,Google Ads,2025-03-26,2025-03-01,2025-03-30,,,Lost,Chose Competitor,true,false
+HL495981,C007,Walk-in,2025-04-06,2025-04-01,,,,Open,"",false,false
+HL496388,C012,Referral,2025-01-10,2025-01-01,2025-01-13,,,Lost,Affordability,true,false
+HL497451,C004,Facebook,2025-04-19,2025-04-01,,,,Open,"",false,false
+HL501638,C012,Google Ads,2025-06-05,2025-06-01,,,,Open,"",false,false
+HL502524,C001,Facebook,2025-06-07,2025-06-01,2025-06-12,2025-07-05,2025-06-28,Won,"",true,true
+HL505099,C009,Web Inquiry,2025-03-27,2025-03-01,,,,Open,"",false,false
+HL505921,C014,Facebook,2025-04-02,2025-04-01,,,,Open,"",false,false
+HL505929,C013,Event,2025-05-28,2025-05-01,2025-06-06,,,Lost,Health Decline,true,false
+HL508381,C011,Walk-in,2025-06-08,2025-06-01,2025-06-15,,,Lost,Affordability,true,false
+HL510567,C013,Facebook,2025-05-08,2025-05-01,2025-05-28,,,Lost,Affordability,true,false
+HL511920,C006,Facebook,2025-03-26,2025-03-01,,,,Open,"",false,false
+HL512079,C012,Referral,2025-05-10,2025-05-01,,,,Open,"",false,false
+HL514664,C008,Print,2025-03-01,2025-03-01,2025-03-22,,,Lost,Other,true,false
+HL514897,C003,Print,2025-01-05,2025-01-01,,,,Lost,Health Decline,false,false
+HL515895,C006,Google Ads,2025-06-06,2025-06-01,,,,Open,"",false,false
+HL516134,C008,Google Ads,2025-04-24,2025-04-01,,,,Lost,Affordability,false,false
+HL516226,C006,Print,2025-01-05,2025-01-01,2025-01-11,2025-01-21,2025-02-22,Won,"",true,true
+HL516664,C010,Walk-in,2025-02-19,2025-02-01,,,,Lost,Health Decline,false,false
+HL517991,C008,Referral,2025-01-15,2025-01-01,,,,Lost,Health Decline,false,false
+HL519020,C004,Web Inquiry,2025-02-26,2025-02-01,,,,Open,"",false,false
+HL519229,C002,Walk-in,2025-04-08,2025-04-01,2025-04-14,,,Lost,Other,true,false
+HL523037,C006,Facebook,2025-02-06,2025-02-01,,,,Lost,Health Decline,false,false
+HL523626,C014,Facebook,2025-03-23,2025-03-01,,,,Open,"",false,false
+HL523879,C011,Web Inquiry,2025-04-07,2025-04-01,,2025-05-14,2025-05-02,Won,"",false,true
+HL525251,C011,Referral,2025-05-18,2025-05-01,2025-06-01,2025-06-26,2025-07-10,Won,"",true,true
+HL525925,C001,Web Inquiry,2025-05-03,2025-05-01,2025-05-13,,,Lost,Affordability,true,false
+HL526292,C011,Walk-in,2025-06-24,2025-06-01,,,,Open,"",false,false
+HL526796,C005,Facebook,2025-04-15,2025-04-01,,,,Open,"",false,false
+HL526797,C006,Event,2025-01-25,2025-01-01,2025-02-10,,,Lost,Other,true,false
+HL527484,C005,Google Ads,2025-06-15,2025-06-01,2025-06-20,,,Lost,Other,true,false
+HL527907,C011,Web Inquiry,2025-03-20,2025-03-01,2025-03-26,,,Lost,Chose Competitor,true,false
+HL528386,C013,Event,2025-05-09,2025-05-01,2025-05-16,,,Lost,Other,true,false
+HL529278,C005,Print,2025-01-20,2025-01-01,,,,Lost,Other,false,false
+HL530896,C014,Facebook,2025-02-01,2025-02-01,2025-02-18,,,Lost,Chose Competitor,true,false
+HL531366,C012,Print,2025-03-03,2025-03-01,2025-03-12,,,Lost,Other,true,false
+HL533087,C006,Google Ads,2025-06-03,2025-06-01,2025-06-21,2025-06-15,2025-07-11,Won,"",true,true
+HL533256,C013,Web Inquiry,2025-06-20,2025-06-01,,2025-07-29,2025-07-20,Won,"",false,true
+HL534464,C013,Event,2025-03-28,2025-03-01,2025-04-05,2025-05-05,2025-05-23,Won,"",true,true
+HL537108,C010,Event,2025-02-03,2025-02-01,2025-02-14,,,Lost,Stayed Home,true,false
+HL539046,C007,Event,2025-04-25,2025-04-01,,,,Open,"",false,false
+HL540280,C007,Event,2025-01-26,2025-01-01,2025-02-16,2025-02-20,2025-03-13,Won,"",true,true
+HL540445,C008,Walk-in,2025-03-15,2025-03-01,,,,Open,"",false,false
+HL541217,C009,Facebook,2025-02-21,2025-02-01,,,,Open,"",false,false
+HL542354,C014,Referral,2025-04-23,2025-04-01,,,,Lost,Health Decline,false,false
+HL542518,C009,Google Ads,2025-06-23,2025-06-01,2025-07-07,,,Lost,Other,true,false
+HL542683,C010,Event,2025-05-12,2025-05-01,,2025-05-29,2025-07-04,Won,"",false,true
+HL545818,C012,Event,2025-06-02,2025-06-01,,,,Open,"",false,false
+HL548291,C006,Referral,2025-05-09,2025-05-01,2025-05-15,,,Lost,Other,true,false
+HL548821,C002,Facebook,2025-04-23,2025-04-01,2025-05-12,,,Lost,Stayed Home,true,false
+HL549139,C010,Print,2025-01-16,2025-01-01,2025-01-26,,,Lost,Affordability,true,false
+HL549234,C014,Event,2025-04-06,2025-04-01,2025-04-14,2025-05-15,2025-05-08,Won,"",true,true
+HL550322,C013,Print,2025-02-06,2025-02-01,,,,Open,"",false,false
+HL550478,C008,Google Ads,2025-05-19,2025-05-01,,,,Lost,Other,false,false
+HL550749,C013,Walk-in,2025-04-01,2025-04-01,2025-04-04,2025-04-22,2025-05-31,Won,"",true,true
+HL552303,C010,Walk-in,2025-03-03,2025-03-01,,,,Open,"",false,false
+HL554100,C001,Web Inquiry,2025-06-13,2025-06-01,,,,Lost,Affordability,false,false
+HL554341,C004,Google Ads,2025-01-04,2025-01-01,,,,Lost,Stayed Home,false,false
+HL555135,C009,Facebook,2025-06-25,2025-06-01,2025-07-02,2025-08-03,2025-08-22,Won,"",true,true
+HL555615,C014,Google Ads,2025-05-25,2025-05-01,2025-06-08,,,Lost,Chose Competitor,true,false
+HL556605,C011,Google Ads,2025-01-13,2025-01-01,2025-01-30,,,Lost,Other,true,false
+HL558488,C013,Referral,2025-01-03,2025-01-01,,,,Lost,Affordability,false,false
+HL558958,C014,Event,2025-03-05,2025-03-01,2025-03-26,2025-03-20,2025-05-03,Won,"",true,true
+HL560894,C013,Print,2025-04-15,2025-04-01,2025-04-25,,,Lost,Other,true,false
+HL562138,C011,Google Ads,2025-03-05,2025-03-01,2025-03-24,,,Lost,Affordability,true,false
+HL562372,C013,Web Inquiry,2025-06-08,2025-06-01,2025-06-17,,,Lost,Stayed Home,true,false
+HL563364,C004,Walk-in,2025-04-13,2025-04-01,2025-04-23,2025-05-17,2025-05-09,Won,"",true,true
+HL563605,C001,Referral,2025-05-24,2025-05-01,2025-05-27,,,Lost,Other,true,false
+HL564905,C003,Web Inquiry,2025-02-28,2025-02-01,2025-03-19,,,Lost,Other,true,false
+HL566024,C010,Web Inquiry,2025-01-15,2025-01-01,,,,Open,"",false,false
+HL566099,C002,Referral,2025-04-24,2025-04-01,,,,Open,"",false,false
+HL566477,C006,Facebook,2025-05-08,2025-05-01,2025-05-14,,,Lost,Affordability,true,false
+HL566732,C009,Web Inquiry,2025-06-23,2025-06-01,,,,Lost,Affordability,false,false
+HL567181,C002,Event,2025-03-11,2025-03-01,2025-03-16,,,Lost,Affordability,true,false
+HL567940,C003,Google Ads,2025-03-03,2025-03-01,2025-03-16,2025-03-18,2025-04-22,Won,"",true,true
+HL568563,C013,Web Inquiry,2025-01-01,2025-01-01,2025-01-12,2025-01-21,2025-02-28,Won,"",true,true
+HL569830,C013,Facebook,2025-01-14,2025-01-01,,2025-02-16,2025-02-03,Won,"",false,true
+HL573356,C013,Referral,2025-04-20,2025-04-01,,,,Open,"",false,false
+HL574821,C001,Print,2025-02-20,2025-02-01,,,,Open,"",false,false
+HL577144,C012,Event,2025-01-14,2025-01-01,2025-01-19,2025-01-29,2025-02-21,Won,"",true,true
+HL579273,C010,Facebook,2025-02-18,2025-02-01,2025-03-05,,,Lost,Other,true,false
+HL579631,C007,Walk-in,2025-06-26,2025-06-01,2025-07-13,,,Lost,Affordability,true,false
+HL579838,C003,Event,2025-03-09,2025-03-01,,,,Open,"",false,false
+HL580699,C004,Event,2025-05-01,2025-05-01,,,,Open,"",false,false
+HL582349,C008,Referral,2025-05-16,2025-05-01,2025-06-03,,,Lost,Affordability,true,false
+HL582542,C010,Event,2025-05-12,2025-05-01,2025-05-22,,,Lost,Stayed Home,true,false
+HL582870,C011,Event,2025-06-03,2025-06-01,2025-06-06,,,Lost,Health Decline,true,false
+HL583681,C005,Event,2025-06-24,2025-06-01,2025-07-05,2025-08-01,2025-08-07,Won,"",true,true
+HL584707,C008,Event,2025-06-17,2025-06-01,,,,Open,"",false,false
+HL584940,C011,Walk-in,2025-04-26,2025-04-01,2025-05-05,,,Lost,Health Decline,true,false
+HL585015,C003,Walk-in,2025-02-13,2025-02-01,2025-02-20,,,Lost,Other,true,false
+HL585486,C005,Google Ads,2025-06-20,2025-06-01,,,,Open,"",false,false
+HL587548,C004,Facebook,2025-05-25,2025-05-01,2025-06-15,,,Lost,Health Decline,true,false
+HL588166,C014,Web Inquiry,2025-03-18,2025-03-01,2025-03-25,2025-04-07,2025-04-09,Won,"",true,true
+HL588607,C005,Google Ads,2025-02-23,2025-02-01,2025-03-06,2025-03-09,2025-04-15,Won,"",true,true
+HL589085,C013,Walk-in,2025-04-01,2025-04-01,,,,Open,"",false,false
+HL590009,C004,Facebook,2025-03-05,2025-03-01,,,,Open,"",false,false
+HL590652,C012,Facebook,2025-02-02,2025-02-01,2025-02-19,2025-03-10,2025-03-03,Won,"",true,true
+HL591142,C001,Print,2025-06-17,2025-06-01,2025-07-01,,,Lost,Stayed Home,true,false
+HL593308,C009,Walk-in,2025-01-02,2025-01-01,2025-01-05,,,Lost,Health Decline,true,false
+HL593841,C012,Referral,2025-06-28,2025-06-01,,,,Lost,Affordability,false,false
+HL595230,C014,Referral,2025-03-13,2025-03-01,,,,Lost,Affordability,false,false
+HL595717,C001,Facebook,2025-05-23,2025-05-01,,,,Open,"",false,false
+HL596068,C009,Walk-in,2025-06-21,2025-06-01,,,,Lost,Other,false,false
+HL596192,C009,Facebook,2025-03-02,2025-03-01,2025-03-20,2025-04-05,2025-04-04,Won,"",true,true
+HL599013,C012,Print,2025-02-02,2025-02-01,,,,Lost,Health Decline,false,false
+HL601439,C013,Walk-in,2025-05-14,2025-05-01,,,,Open,"",false,false
+HL601912,C011,Print,2025-02-02,2025-02-01,,,,Open,"",false,false
+HL603315,C005,Print,2025-04-22,2025-04-01,2025-05-01,,,Lost,Stayed Home,true,false
+HL605810,C005,Walk-in,2025-01-18,2025-01-01,2025-01-31,,,Lost,Health Decline,true,false
+HL607300,C003,Web Inquiry,2025-04-19,2025-04-01,2025-05-07,,,Lost,Affordability,true,false
+HL607543,C001,Print,2025-03-05,2025-03-01,2025-03-22,,,Lost,Chose Competitor,true,false
+HL607560,C002,Facebook,2025-05-28,2025-05-01,,,,Lost,Health Decline,false,false
+HL607885,C007,Google Ads,2025-04-10,2025-04-01,2025-04-22,,,Lost,Health Decline,true,false
+HL609292,C009,Facebook,2025-03-03,2025-03-01,,,,Open,"",false,false
+HL609681,C001,Web Inquiry,2025-05-12,2025-05-01,,,,Open,"",false,false
+HL610488,C007,Walk-in,2025-04-14,2025-04-01,,2025-04-27,2025-05-07,Won,"",false,true
+HL616029,C002,Google Ads,2025-06-11,2025-06-01,,,,Open,"",false,false
+HL617187,C009,Facebook,2025-06-14,2025-06-01,2025-06-17,,,Lost,Chose Competitor,true,false
+HL617276,C005,Referral,2025-05-22,2025-05-01,,,,Open,"",false,false
+HL618295,C014,Web Inquiry,2025-06-10,2025-06-01,2025-06-19,2025-07-20,2025-07-21,Won,"",true,true
+HL618387,C005,Facebook,2025-04-19,2025-04-01,,,,Lost,Other,false,false
+HL618499,C001,Print,2025-01-12,2025-01-01,2025-01-26,,,Lost,Chose Competitor,true,false
+HL618934,C002,Web Inquiry,2025-01-17,2025-01-01,2025-02-07,,,Lost,Other,true,false
+HL622304,C010,Walk-in,2025-01-25,2025-01-01,,2025-02-13,2025-03-10,Won,"",false,true
+HL623451,C007,Referral,2025-02-26,2025-02-01,2025-03-02,,,Lost,Health Decline,true,false
+HL625516,C012,Print,2025-06-22,2025-06-01,2025-07-07,,,Lost,Other,true,false
+HL626909,C001,Google Ads,2025-05-05,2025-05-01,,,,Open,"",false,false
+HL627457,C005,Print,2025-02-17,2025-02-01,2025-03-09,,,Lost,Affordability,true,false
+HL627810,C005,Web Inquiry,2025-02-21,2025-02-01,,,,Open,"",false,false
+HL629117,C001,Print,2025-05-09,2025-05-01,2025-05-27,,,Lost,Stayed Home,true,false
+HL629258,C003,Print,2025-02-13,2025-02-01,,,,Open,"",false,false
+HL630327,C002,Web Inquiry,2025-05-21,2025-05-01,2025-05-29,,,Lost,Other,true,false
+HL632189,C011,Print,2025-03-18,2025-03-01,2025-04-01,2025-04-07,2025-05-12,Won,"",true,true
+HL632817,C009,Google Ads,2025-05-14,2025-05-01,,,,Open,"",false,false
+HL633619,C010,Google Ads,2025-01-05,2025-01-01,,,,Open,"",false,false
+HL634043,C004,Web Inquiry,2025-05-02,2025-05-01,2025-05-08,,,Lost,Chose Competitor,true,false
+HL637192,C004,Event,2025-04-01,2025-04-01,2025-04-14,,,Lost,Affordability,true,false
+HL637581,C002,Event,2025-05-16,2025-05-01,2025-05-22,,,Lost,Health Decline,true,false
+HL638811,C011,Facebook,2025-04-25,2025-04-01,,,,Open,"",false,false
+HL640398,C004,Web Inquiry,2025-04-19,2025-04-01,2025-04-30,,,Lost,Other,true,false
+HL641248,C004,Print,2025-06-01,2025-06-01,,,,Open,"",false,false
+HL641510,C003,Walk-in,2025-01-14,2025-01-01,2025-01-19,,,Lost,Other,true,false
+HL641710,C001,Walk-in,2025-02-28,2025-02-01,,,,Open,"",false,false
+HL646220,C011,Event,2025-05-22,2025-05-01,,,,Open,"",false,false
+HL646742,C006,Web Inquiry,2025-01-25,2025-01-01,2025-02-01,,,Lost,Chose Competitor,true,false
+HL647056,C010,Referral,2025-05-03,2025-05-01,,,,Open,"",false,false
+HL648001,C014,Event,2025-04-28,2025-04-01,,,,Open,"",false,false
+HL648109,C006,Facebook,2025-02-28,2025-02-01,,,,Open,"",false,false
+HL648293,C008,Facebook,2025-03-10,2025-03-01,2025-03-29,2025-04-07,2025-05-09,Won,"",true,true
+HL648657,C002,Print,2025-05-06,2025-05-01,2025-05-13,,,Lost,Health Decline,true,false
+HL648961,C012,Walk-in,2025-04-12,2025-04-01,,,,Open,"",false,false
+HL649065,C014,Event,2025-04-19,2025-04-01,2025-05-08,,,Lost,Stayed Home,true,false
+HL650448,C006,Facebook,2025-02-25,2025-02-01,2025-03-18,2025-04-05,2025-04-12,Won,"",true,true
+HL650530,C007,Event,2025-05-16,2025-05-01,2025-05-31,,,Lost,Other,true,false
+HL650534,C001,Event,2025-05-05,2025-05-01,,,,Open,"",false,false
+HL650559,C004,Referral,2025-02-06,2025-02-01,2025-02-19,,,Lost,Other,true,false
+HL650762,C013,Facebook,2025-06-09,2025-06-01,,,,Lost,Health Decline,false,false
+HL651471,C005,Referral,2025-05-01,2025-05-01,,,,Lost,Stayed Home,false,false
+HL651872,C002,Facebook,2025-04-24,2025-04-01,2025-05-01,2025-05-31,2025-05-22,Won,"",true,true
+HL651920,C002,Print,2025-06-06,2025-06-01,2025-06-10,,,Lost,Other,true,false
+HL652485,C003,Google Ads,2025-03-04,2025-03-01,,,,Open,"",false,false
+HL653637,C010,Google Ads,2025-06-08,2025-06-01,2025-06-25,,,Lost,Chose Competitor,true,false
+HL654329,C009,Facebook,2025-05-28,2025-05-01,,,,Lost,Chose Competitor,false,false
+HL655906,C002,Referral,2025-04-24,2025-04-01,2025-05-14,2025-05-26,2025-06-23,Won,"",true,true
+HL656530,C009,Referral,2025-06-09,2025-06-01,,2025-06-30,2025-07-05,Won,"",false,true
+HL657316,C010,Walk-in,2025-05-02,2025-05-01,,2025-05-26,2025-06-18,Won,"",false,true
+HL657565,C008,Print,2025-06-12,2025-06-01,,,,Lost,Chose Competitor,false,false
+HL659268,C006,Google Ads,2025-06-16,2025-06-01,2025-06-25,2025-07-18,2025-07-06,Won,"",true,true
+HL659837,C006,Print,2025-01-26,2025-01-01,,,,Lost,Chose Competitor,false,false
+HL661682,C005,Referral,2025-02-04,2025-02-01,,,,Lost,Chose Competitor,false,false
+HL661840,C009,Referral,2025-01-13,2025-01-01,2025-01-18,,,Lost,Other,true,false
+HL662846,C009,Google Ads,2025-02-06,2025-02-01,,,,Open,"",false,false
+HL663253,C012,Event,2025-01-11,2025-01-01,2025-01-20,,,Lost,Other,true,false
+HL665659,C007,Event,2025-05-17,2025-05-01,2025-06-04,,,Lost,Affordability,true,false
+HL667340,C009,Print,2025-02-09,2025-02-01,,2025-03-03,2025-03-14,Won,"",false,true
+HL667597,C006,Walk-in,2025-06-28,2025-06-01,2025-07-19,2025-08-05,2025-08-01,Won,"",true,true
+HL667811,C004,Referral,2025-02-13,2025-02-01,,2025-02-23,2025-03-28,Won,"",false,true
+HL668663,C013,Referral,2025-02-08,2025-02-01,2025-02-14,,,Lost,Other,true,false
+HL669586,C005,Print,2025-04-06,2025-04-01,2025-04-25,,,Lost,Affordability,true,false
+HL669835,C006,Event,2025-05-16,2025-05-01,,,,Open,"",false,false
+HL670021,C007,Facebook,2025-04-06,2025-04-01,,2025-05-09,2025-05-16,Won,"",false,true
+HL670482,C014,Google Ads,2025-06-23,2025-06-01,,,,Open,"",false,false
+HL670670,C004,Web Inquiry,2025-02-12,2025-02-01,,,,Lost,Affordability,false,false
+HL671224,C014,Print,2025-02-21,2025-02-01,,,,Open,"",false,false
+HL675991,C006,Web Inquiry,2025-06-04,2025-06-01,2025-06-13,,,Lost,Health Decline,true,false
+HL676702,C010,Event,2025-02-03,2025-02-01,2025-02-21,2025-03-15,2025-03-13,Won,"",true,true
+HL677388,C002,Referral,2025-06-17,2025-06-01,2025-06-20,,,Lost,Stayed Home,true,false
+HL677738,C001,Facebook,2025-04-09,2025-04-01,,,,Open,"",false,false
+HL677972,C010,Print,2025-06-08,2025-06-01,2025-06-16,,,Lost,Chose Competitor,true,false
+HL678008,C008,Walk-in,2025-04-24,2025-04-01,2025-04-27,2025-05-30,2025-05-18,Won,"",true,true
+HL680149,C005,Facebook,2025-05-28,2025-05-01,,,,Open,"",false,false
+HL681619,C007,Google Ads,2025-06-19,2025-06-01,2025-06-26,,,Lost,Chose Competitor,true,false
+HL681826,C008,Event,2025-02-20,2025-02-01,,,,Open,"",false,false
+HL683420,C003,Walk-in,2025-01-10,2025-01-01,2025-01-23,2025-01-28,2025-02-18,Won,"",true,true
+HL684518,C008,Google Ads,2025-05-08,2025-05-01,,,,Open,"",false,false
+HL686125,C012,Event,2025-06-26,2025-06-01,2025-07-08,,,Lost,Stayed Home,true,false
+HL686284,C008,Event,2025-05-12,2025-05-01,,,,Lost,Stayed Home,false,false
+HL686640,C013,Referral,2025-03-13,2025-03-01,2025-03-18,,,Lost,Chose Competitor,true,false
+HL688567,C003,Facebook,2025-01-13,2025-01-01,2025-01-23,,,Lost,Other,true,false
+HL691043,C009,Event,2025-06-02,2025-06-01,2025-06-07,,,Lost,Health Decline,true,false
+HL691277,C002,Event,2025-04-16,2025-04-01,,,,Lost,Chose Competitor,false,false
+HL692166,C014,Walk-in,2025-04-23,2025-04-01,2025-05-09,2025-05-10,2025-06-20,Won,"",true,true
+HL693350,C005,Web Inquiry,2025-06-22,2025-06-01,2025-06-25,,,Lost,Health Decline,true,false
+HL693352,C005,Referral,2025-05-15,2025-05-01,,,,Lost,Health Decline,false,false
+HL693406,C013,Print,2025-06-23,2025-06-01,2025-07-07,,,Lost,Stayed Home,true,false
+HL694047,C014,Event,2025-03-24,2025-03-01,2025-04-08,,,Lost,Health Decline,true,false
+HL695931,C002,Google Ads,2025-02-24,2025-02-01,2025-02-27,,,Lost,Stayed Home,true,false
+HL697288,C010,Facebook,2025-02-22,2025-02-01,,,,Open,"",false,false
+HL697686,C004,Event,2025-04-04,2025-04-01,,,,Lost,Affordability,false,false
+HL697950,C012,Print,2025-06-12,2025-06-01,,,,Open,"",false,false
+HL699292,C011,Facebook,2025-06-11,2025-06-01,,,,Lost,Affordability,false,false
+HL699463,C003,Event,2025-01-16,2025-01-01,,,,Lost,Chose Competitor,false,false
+HL699915,C010,Facebook,2025-01-28,2025-01-01,2025-02-03,,,Lost,Stayed Home,true,false
+HL700354,C011,Web Inquiry,2025-05-21,2025-05-01,,2025-06-01,2025-07-09,Won,"",false,true
+HL701565,C003,Facebook,2025-06-10,2025-06-01,,,,Lost,Chose Competitor,false,false
+HL701630,C003,Event,2025-01-15,2025-01-01,,,,Open,"",false,false
+HL702580,C001,Web Inquiry,2025-03-13,2025-03-01,,2025-04-16,2025-04-24,Won,"",false,true
+HL703621,C002,Google Ads,2025-03-05,2025-03-01,,,,Lost,Affordability,false,false
+HL703768,C010,Google Ads,2025-02-08,2025-02-01,,,,Open,"",false,false
+HL704739,C009,Google Ads,2025-05-06,2025-05-01,,2025-05-21,2025-06-21,Won,"",false,true
+HL706459,C006,Referral,2025-04-12,2025-04-01,2025-04-30,2025-05-18,2025-05-07,Won,"",true,true
+HL706575,C001,Google Ads,2025-01-10,2025-01-01,,,,Lost,Other,false,false
+HL709764,C008,Google Ads,2025-03-15,2025-03-01,2025-03-22,,,Lost,Chose Competitor,true,false
+HL710561,C007,Event,2025-05-20,2025-05-01,,,,Open,"",false,false
+HL716594,C010,Google Ads,2025-01-09,2025-01-01,,2025-01-23,2025-01-30,Won,"",false,true
+HL717363,C010,Facebook,2025-02-03,2025-02-01,2025-02-12,,,Lost,Stayed Home,true,false
+HL719528,C010,Event,2025-06-19,2025-06-01,,,,Lost,Affordability,false,false
+HL720106,C004,Facebook,2025-02-28,2025-02-01,2025-03-21,,,Lost,Chose Competitor,true,false
+HL722112,C007,Walk-in,2025-03-26,2025-03-01,,,,Open,"",false,false
+HL722749,C002,Event,2025-06-07,2025-06-01,,2025-07-05,2025-07-24,Won,"",false,true
+HL724195,C011,Web Inquiry,2025-04-15,2025-04-01,2025-04-21,,,Lost,Stayed Home,true,false
+HL724358,C008,Referral,2025-06-01,2025-06-01,2025-06-19,,,Lost,Other,true,false
+HL724985,C012,Print,2025-05-11,2025-05-01,,,,Lost,Affordability,false,false
+HL725818,C007,Walk-in,2025-02-02,2025-02-01,2025-02-14,2025-03-06,2025-03-08,Won,"",true,true
+HL726035,C010,Print,2025-05-05,2025-05-01,2025-05-11,,,Lost,Other,true,false
+HL726569,C010,Web Inquiry,2025-06-07,2025-06-01,,2025-07-07,2025-07-22,Won,"",false,true
+HL726621,C009,Facebook,2025-06-27,2025-06-01,2025-07-17,,,Lost,Chose Competitor,true,false
+HL726801,C005,Google Ads,2025-04-23,2025-04-01,2025-05-05,2025-05-26,2025-06-05,Won,"",true,true
+HL727171,C009,Referral,2025-04-22,2025-04-01,,,,Lost,Chose Competitor,false,false
+HL727506,C005,Event,2025-02-08,2025-02-01,2025-02-21,,,Lost,Health Decline,true,false
+HL727919,C004,Referral,2025-05-07,2025-05-01,2025-05-21,,,Lost,Chose Competitor,true,false
+HL728781,C012,Event,2025-05-05,2025-05-01,,,,Open,"",false,false
+HL728973,C010,Print,2025-03-14,2025-03-01,,,,Lost,Affordability,false,false
+HL729099,C008,Web Inquiry,2025-05-20,2025-05-01,,2025-06-28,2025-06-24,Won,"",false,true
+HL731631,C002,Event,2025-02-20,2025-02-01,,,,Open,"",false,false
+HL735283,C007,Web Inquiry,2025-06-06,2025-06-01,,,,Open,"",false,false
+HL735847,C002,Google Ads,2025-02-22,2025-02-01,,,,Open,"",false,false
+HL736459,C011,Walk-in,2025-03-13,2025-03-01,,,,Lost,Affordability,false,false
+HL737524,C007,Google Ads,2025-05-27,2025-05-01,2025-06-08,,,Lost,Chose Competitor,true,false
+HL737880,C012,Print,2025-02-18,2025-02-01,,,,Lost,Affordability,false,false
+HL740527,C004,Walk-in,2025-05-12,2025-05-01,2025-05-26,,,Lost,Stayed Home,true,false
+HL743078,C007,Referral,2025-04-19,2025-04-01,2025-05-07,,,Lost,Affordability,true,false
+HL743577,C004,Event,2025-02-07,2025-02-01,2025-02-27,,,Lost,Chose Competitor,true,false
+HL743793,C011,Web Inquiry,2025-02-01,2025-02-01,,,,Open,"",false,false
+HL743876,C002,Google Ads,2025-05-02,2025-05-01,,,,Lost,Stayed Home,false,false
+HL745300,C009,Event,2025-04-02,2025-04-01,,,,Open,"",false,false
+HL746008,C001,Walk-in,2025-04-05,2025-04-01,,,,Open,"",false,false
+HL747614,C003,Print,2025-01-12,2025-01-01,2025-01-18,,,Lost,Affordability,true,false
+HL747864,C002,Print,2025-01-28,2025-01-01,2025-02-05,,,Lost,Other,true,false
+HL749696,C014,Google Ads,2025-06-14,2025-06-01,2025-06-20,2025-07-22,2025-07-09,Won,"",true,true
+HL749990,C011,Google Ads,2025-02-28,2025-02-01,2025-03-20,2025-04-03,2025-04-04,Won,"",true,true
+HL750621,C002,Referral,2025-06-11,2025-06-01,,,,Open,"",false,false
+HL750655,C012,Web Inquiry,2025-06-23,2025-06-01,2025-07-08,,,Lost,Affordability,true,false
+HL751367,C008,Facebook,2025-03-03,2025-03-01,,,,Open,"",false,false
+HL751538,C014,Referral,2025-06-25,2025-06-01,,2025-08-02,2025-08-21,Won,"",false,true
+HL752554,C004,Facebook,2025-03-28,2025-03-01,,,,Lost,Stayed Home,false,false
+HL755178,C007,Web Inquiry,2025-02-02,2025-02-01,2025-02-14,,,Lost,Other,true,false
+HL755518,C014,Facebook,2025-06-23,2025-06-01,,,,Open,"",false,false
+HL757003,C009,Print,2025-02-18,2025-02-01,,,,Open,"",false,false
+HL758136,C013,Referral,2025-02-09,2025-02-01,2025-02-12,,,Lost,Affordability,true,false
+HL758439,C011,Google Ads,2025-02-09,2025-02-01,2025-02-16,,,Lost,Affordability,true,false
+HL760657,C011,Referral,2025-06-09,2025-06-01,,,,Lost,Chose Competitor,false,false
+HL761371,C002,Google Ads,2025-04-27,2025-04-01,,,,Open,"",false,false
+HL762034,C004,Print,2025-04-03,2025-04-01,,2025-04-30,2025-05-24,Won,"",false,true
+HL763370,C004,Referral,2025-06-22,2025-06-01,,,,Lost,Health Decline,false,false
+HL764191,C012,Event,2025-06-28,2025-06-01,2025-07-07,2025-07-11,2025-08-22,Won,"",true,true
+HL764443,C008,Event,2025-03-22,2025-03-01,2025-04-07,,,Lost,Affordability,true,false
+HL765392,C007,Event,2025-02-11,2025-02-01,,,,Open,"",false,false
+HL766369,C007,Walk-in,2025-03-27,2025-03-01,,,,Lost,Affordability,false,false
+HL767863,C008,Event,2025-06-22,2025-06-01,,,,Lost,Health Decline,false,false
+HL767870,C014,Referral,2025-06-20,2025-06-01,2025-07-06,,,Lost,Affordability,true,false
+HL768387,C005,Print,2025-06-28,2025-06-01,2025-07-01,2025-07-11,2025-07-21,Won,"",true,true
+HL768989,C007,Event,2025-01-05,2025-01-01,,,,Lost,Chose Competitor,false,false
+HL769287,C014,Referral,2025-04-21,2025-04-01,,,,Lost,Other,false,false
+HL769378,C012,Walk-in,2025-01-10,2025-01-01,,,,Open,"",false,false
+HL770442,C014,Print,2025-05-24,2025-05-01,,,,Lost,Chose Competitor,false,false
+HL771157,C011,Referral,2025-03-08,2025-03-01,2025-03-17,2025-04-16,2025-05-06,Won,"",true,true
+HL771742,C001,Google Ads,2025-02-09,2025-02-01,,,,Open,"",false,false
+HL773557,C004,Facebook,2025-01-11,2025-01-01,,,,Open,"",false,false
+HL775050,C006,Referral,2025-04-02,2025-04-01,2025-04-05,,,Lost,Health Decline,true,false
+HL776211,C008,Google Ads,2025-04-25,2025-04-01,,,,Open,"",false,false
+HL777175,C014,Referral,2025-06-07,2025-06-01,2025-06-16,,,Lost,Stayed Home,true,false
+HL777562,C006,Event,2025-02-09,2025-02-01,2025-02-27,,,Lost,Health Decline,true,false
+HL778191,C009,Referral,2025-02-22,2025-02-01,2025-02-28,,,Lost,Affordability,true,false
+HL780028,C009,Facebook,2025-06-27,2025-06-01,,,,Open,"",false,false
+HL780929,C004,Referral,2025-06-06,2025-06-01,,,,Lost,Chose Competitor,false,false
+HL782505,C011,Facebook,2025-03-21,2025-03-01,,,,Open,"",false,false
+HL783150,C003,Facebook,2025-03-17,2025-03-01,2025-03-25,,,Lost,Other,true,false
+HL783909,C002,Web Inquiry,2025-01-24,2025-01-01,2025-01-27,,,Lost,Chose Competitor,true,false
+HL784875,C002,Walk-in,2025-06-18,2025-06-01,2025-07-03,2025-07-21,2025-07-19,Won,"",true,true
+HL787243,C008,Google Ads,2025-04-13,2025-04-01,2025-04-18,2025-05-23,2025-05-13,Won,"",true,true
+HL787810,C005,Print,2025-01-24,2025-01-01,,2025-02-19,2025-03-16,Won,"",false,true
+HL788797,C009,Facebook,2025-05-19,2025-05-01,,,,Open,"",false,false
+HL789676,C010,Referral,2025-04-26,2025-04-01,,,,Open,"",false,false
+HL791047,C012,Google Ads,2025-06-01,2025-06-01,,,,Lost,Affordability,false,false
+HL792087,C005,Web Inquiry,2025-03-05,2025-03-01,2025-03-26,,,Lost,Chose Competitor,true,false
+HL793625,C009,Referral,2025-01-26,2025-01-01,2025-02-13,2025-02-10,2025-03-22,Won,"",true,true
+HL793725,C005,Referral,2025-03-13,2025-03-01,2025-03-17,,,Lost,Stayed Home,true,false
+HL796064,C010,Print,2025-05-18,2025-05-01,,,,Open,"",false,false
+HL797748,C010,Event,2025-06-24,2025-06-01,2025-07-06,2025-07-15,2025-08-07,Won,"",true,true
+HL797963,C010,Event,2025-03-16,2025-03-01,,,,Open,"",false,false
+HL798158,C001,Google Ads,2025-01-23,2025-01-01,,2025-02-06,2025-03-16,Won,"",false,true
+HL799315,C010,Walk-in,2025-06-17,2025-06-01,,,,Open,"",false,false
+HL799777,C004,Google Ads,2025-02-12,2025-02-01,2025-03-01,2025-03-15,2025-03-14,Won,"",true,true
+HL804474,C011,Event,2025-01-23,2025-01-01,2025-01-28,2025-02-18,2025-03-19,Won,"",true,true
+HL806023,C009,Facebook,2025-05-18,2025-05-01,,,,Open,"",false,false
+HL809198,C010,Walk-in,2025-02-20,2025-02-01,,,,Lost,Health Decline,false,false
+HL811327,C002,Google Ads,2025-01-04,2025-01-01,2025-01-14,2025-02-04,2025-02-12,Won,"",true,true
+HL811738,C004,Walk-in,2025-03-22,2025-03-01,2025-03-28,,,Lost,Health Decline,true,false
+HL812447,C001,Print,2025-01-28,2025-01-01,2025-02-11,,,Lost,Health Decline,true,false
+HL812959,C005,Web Inquiry,2025-01-09,2025-01-01,2025-01-12,,,Lost,Health Decline,true,false
+HL816697,C009,Print,2025-03-11,2025-03-01,,,,Lost,Stayed Home,false,false
+HL816714,C007,Referral,2025-06-03,2025-06-01,,,,Open,"",false,false
+HL821082,C002,Web Inquiry,2025-03-01,2025-03-01,,,,Open,"",false,false
+HL824108,C013,Web Inquiry,2025-06-05,2025-06-01,2025-06-26,,,Lost,Chose Competitor,true,false
+HL824437,C013,Print,2025-06-12,2025-06-01,2025-06-29,,,Lost,Chose Competitor,true,false
+HL825792,C014,Google Ads,2025-04-21,2025-04-01,,,,Open,"",false,false
+HL827303,C004,Google Ads,2025-05-24,2025-05-01,,,,Open,"",false,false
+HL828360,C008,Walk-in,2025-05-05,2025-05-01,,,,Open,"",false,false
+HL828783,C011,Walk-in,2025-03-02,2025-03-01,,,,Lost,Health Decline,false,false
+HL830522,C004,Referral,2025-01-20,2025-01-01,2025-01-29,,,Lost,Affordability,true,false
+HL831540,C008,Facebook,2025-01-17,2025-01-01,2025-01-20,,,Lost,Other,true,false
+HL832740,C009,Referral,2025-05-24,2025-05-01,2025-05-31,,,Lost,Other,true,false
+HL833287,C001,Print,2025-01-06,2025-01-01,,,,Lost,Affordability,false,false
+HL833315,C009,Event,2025-06-02,2025-06-01,2025-06-11,,,Lost,Chose Competitor,true,false
+HL835770,C008,Facebook,2025-05-04,2025-05-01,,,,Lost,Affordability,false,false
+HL836388,C010,Walk-in,2025-06-17,2025-06-01,2025-06-23,,,Lost,Chose Competitor,true,false
+HL837496,C014,Event,2025-06-14,2025-06-01,,,,Open,"",false,false
+HL839360,C014,Referral,2025-06-20,2025-06-01,,,,Lost,Affordability,false,false
+HL839496,C006,Web Inquiry,2025-01-10,2025-01-01,,,,Open,"",false,false
+HL840786,C004,Print,2025-01-25,2025-01-01,2025-02-04,,,Lost,Affordability,true,false
+HL841078,C003,Print,2025-03-06,2025-03-01,2025-03-18,,,Lost,Affordability,true,false
+HL842609,C002,Referral,2025-05-13,2025-05-01,,,,Open,"",false,false
+HL843753,C005,Event,2025-04-09,2025-04-01,,,,Open,"",false,false
+HL848702,C010,Referral,2025-02-22,2025-02-01,,,,Lost,Chose Competitor,false,false
+HL849655,C014,Print,2025-04-20,2025-04-01,2025-05-11,,,Lost,Stayed Home,true,false
+HL852742,C013,Print,2025-06-25,2025-06-01,2025-07-06,2025-07-20,2025-08-02,Won,"",true,true
+HL855053,C010,Google Ads,2025-01-05,2025-01-01,,,,Open,"",false,false
+HL855941,C013,Web Inquiry,2025-06-14,2025-06-01,2025-07-01,,,Lost,Affordability,true,false
+HL856832,C009,Google Ads,2025-05-01,2025-05-01,2025-05-13,,,Lost,Chose Competitor,true,false
+HL857745,C007,Referral,2025-03-15,2025-03-01,2025-04-03,,,Lost,Affordability,true,false
+HL858286,C004,Facebook,2025-03-08,2025-03-01,,,,Lost,Chose Competitor,false,false
+HL860093,C002,Web Inquiry,2025-06-27,2025-06-01,2025-07-13,,,Lost,Other,true,false
+HL861992,C010,Facebook,2025-04-15,2025-04-01,2025-05-05,,,Lost,Chose Competitor,true,false
+HL862011,C001,Event,2025-01-12,2025-01-01,2025-01-15,,,Lost,Stayed Home,true,false
+HL862972,C012,Print,2025-06-13,2025-06-01,,,,Lost,Stayed Home,false,false
+HL863298,C003,Event,2025-06-18,2025-06-01,,,,Open,"",false,false
+HL864246,C008,Referral,2025-03-28,2025-03-01,2025-04-07,2025-04-12,2025-05-08,Won,"",true,true
+HL864514,C014,Referral,2025-05-04,2025-05-01,,2025-05-27,2025-06-11,Won,"",false,true
+HL865616,C011,Facebook,2025-01-14,2025-01-01,2025-01-20,,,Lost,Chose Competitor,true,false
+HL866166,C014,Print,2025-03-14,2025-03-01,,,,Lost,Other,false,false
+HL868306,C009,Facebook,2025-05-06,2025-05-01,,,,Open,"",false,false
+HL868985,C011,Print,2025-04-28,2025-04-01,2025-05-14,2025-06-06,2025-05-30,Won,"",true,true
+HL870802,C003,Referral,2025-01-28,2025-01-01,,,,Open,"",false,false
+HL872748,C004,Web Inquiry,2025-02-07,2025-02-01,2025-02-20,,,Lost,Health Decline,true,false
+HL872917,C010,Google Ads,2025-02-17,2025-02-01,2025-03-04,,,Lost,Other,true,false
+HL873452,C006,Referral,2025-06-19,2025-06-01,,,,Open,"",false,false
+HL875129,C002,Walk-in,2025-05-25,2025-05-01,,2025-06-13,2025-06-16,Won,"",false,true
+HL875637,C013,Event,2025-01-03,2025-01-01,,,,Open,"",false,false
+HL878436,C010,Facebook,2025-04-10,2025-04-01,,,,Open,"",false,false
+HL878936,C008,Web Inquiry,2025-03-12,2025-03-01,2025-03-17,2025-04-13,2025-04-02,Won,"",true,true
+HL879522,C008,Print,2025-06-20,2025-06-01,2025-06-25,2025-07-05,2025-07-14,Won,"",true,true
+HL879850,C013,Print,2025-06-20,2025-06-01,,2025-07-14,2025-08-17,Won,"",false,true
+HL880146,C003,Facebook,2025-06-17,2025-06-01,,,,Open,"",false,false
+HL882517,C013,Google Ads,2025-02-08,2025-02-01,2025-02-11,2025-03-05,2025-03-26,Won,"",true,true
+HL882589,C002,Web Inquiry,2025-04-18,2025-04-01,2025-04-30,,,Lost,Stayed Home,true,false
+HL882746,C014,Web Inquiry,2025-05-13,2025-05-01,,,,Lost,Chose Competitor,false,false
+HL884616,C010,Web Inquiry,2025-01-06,2025-01-01,,,,Open,"",false,false
+HL886215,C001,Web Inquiry,2025-04-04,2025-04-01,2025-04-23,,,Lost,Other,true,false
+HL887427,C005,Event,2025-03-14,2025-03-01,2025-03-20,,,Lost,Affordability,true,false
+HL887511,C003,Web Inquiry,2025-04-10,2025-04-01,2025-04-19,,,Lost,Chose Competitor,true,false
+HL887734,C007,Web Inquiry,2025-02-01,2025-02-01,2025-02-05,,,Lost,Health Decline,true,false
+HL888150,C001,Google Ads,2025-06-16,2025-06-01,2025-06-26,,,Lost,Health Decline,true,false
+HL889240,C005,Print,2025-02-09,2025-02-01,,,,Lost,Stayed Home,false,false
+HL889271,C011,Print,2025-01-05,2025-01-01,,,,Open,"",false,false
+HL889697,C012,Print,2025-01-28,2025-01-01,2025-02-07,,,Lost,Chose Competitor,true,false
+HL890872,C005,Print,2025-01-08,2025-01-01,,2025-02-15,2025-02-10,Won,"",false,true
+HL892842,C007,Event,2025-01-26,2025-01-01,,,,Open,"",false,false
+HL894134,C004,Facebook,2025-05-20,2025-05-01,2025-06-09,,,Lost,Affordability,true,false
+HL896084,C003,Web Inquiry,2025-05-20,2025-05-01,,,,Open,"",false,false
+HL896866,C014,Print,2025-03-04,2025-03-01,2025-03-13,,,Lost,Affordability,true,false
+HL897413,C014,Event,2025-03-10,2025-03-01,2025-03-18,,,Lost,Chose Competitor,true,false
+HL897706,C006,Google Ads,2025-06-23,2025-06-01,2025-07-01,,,Lost,Affordability,true,false
+HL898187,C014,Walk-in,2025-04-23,2025-04-01,2025-05-08,,,Lost,Stayed Home,true,false
+HL901950,C010,Event,2025-03-10,2025-03-01,2025-03-13,,,Lost,Health Decline,true,false
+HL903463,C003,Google Ads,2025-03-17,2025-03-01,2025-03-30,,,Lost,Other,true,false
+HL904636,C009,Google Ads,2025-02-03,2025-02-01,,,,Open,"",false,false
+HL906371,C014,Print,2025-05-02,2025-05-01,,,,Open,"",false,false
+HL906779,C001,Walk-in,2025-04-09,2025-04-01,,2025-04-29,2025-06-04,Won,"",false,true
+HL906854,C010,Referral,2025-03-24,2025-03-01,2025-03-31,,,Lost,Stayed Home,true,false
+HL906866,C005,Referral,2025-02-24,2025-02-01,,,,Lost,Chose Competitor,false,false
+HL907335,C012,Web Inquiry,2025-05-23,2025-05-01,2025-06-06,2025-06-29,2025-06-29,Won,"",true,true
+HL908228,C010,Print,2025-05-15,2025-05-01,2025-05-19,,,Lost,Affordability,true,false
+HL910755,C003,Google Ads,2025-01-13,2025-01-01,2025-01-24,2025-01-27,2025-02-19,Won,"",true,true
+HL912897,C014,Print,2025-03-20,2025-03-01,2025-04-06,,,Lost,Chose Competitor,true,false
+HL912969,C007,Print,2025-01-28,2025-01-01,,,,Open,"",false,false
+HL913653,C003,Event,2025-02-25,2025-02-01,2025-03-09,,,Lost,Stayed Home,true,false
+HL914571,C002,Event,2025-03-03,2025-03-01,,,,Open,"",false,false
+HL914687,C001,Facebook,2025-01-24,2025-01-01,,,,Lost,Health Decline,false,false
+HL915032,C001,Event,2025-04-14,2025-04-01,,,,Open,"",false,false
+HL915340,C002,Print,2025-05-11,2025-05-01,,,,Lost,Stayed Home,false,false
+HL916074,C003,Web Inquiry,2025-02-14,2025-02-01,,,,Open,"",false,false
+HL916888,C006,Event,2025-02-08,2025-02-01,,,,Open,"",false,false
+HL917097,C006,Referral,2025-04-03,2025-04-01,,,,Open,"",false,false
+HL917662,C011,Google Ads,2025-01-12,2025-01-01,2025-01-29,2025-01-23,2025-03-03,Won,"",true,true
+HL921279,C004,Walk-in,2025-06-05,2025-06-01,2025-06-09,,,Lost,Other,true,false
+HL924299,C010,Facebook,2025-03-24,2025-03-01,,,,Lost,Affordability,false,false
+HL924442,C001,Print,2025-02-23,2025-02-01,,2025-04-01,2025-04-06,Won,"",false,true
+HL925420,C004,Google Ads,2025-01-16,2025-01-01,2025-01-19,,,Lost,Stayed Home,true,false
+HL926354,C013,Referral,2025-02-12,2025-02-01,2025-02-15,2025-03-24,2025-03-12,Won,"",true,true
+HL927488,C002,Referral,2025-04-04,2025-04-01,,,,Open,"",false,false
+HL928629,C002,Walk-in,2025-05-08,2025-05-01,,,,Lost,Stayed Home,false,false
+HL928767,C012,Referral,2025-01-25,2025-01-01,2025-02-01,,,Lost,Health Decline,true,false
+HL929235,C007,Web Inquiry,2025-02-21,2025-02-01,2025-03-14,2025-03-26,2025-04-14,Won,"",true,true
+HL932200,C008,Event,2025-01-24,2025-01-01,2025-01-27,,,Lost,Stayed Home,true,false
+HL932332,C002,Facebook,2025-01-15,2025-01-01,,,,Open,"",false,false
+HL933205,C003,Event,2025-05-17,2025-05-01,2025-05-29,,,Lost,Chose Competitor,true,false
+HL934836,C005,Web Inquiry,2025-01-02,2025-01-01,2025-01-06,2025-02-06,2025-02-03,Won,"",true,true
+HL934959,C003,Event,2025-06-07,2025-06-01,2025-06-25,2025-06-29,2025-07-24,Won,"",true,true
+HL940001,C004,Google Ads,2025-03-18,2025-03-01,,,,Lost,Affordability,false,false
+HL940037,C014,Print,2025-04-17,2025-04-01,2025-04-21,2025-05-02,2025-05-28,Won,"",true,true
+HL942494,C006,Web Inquiry,2025-04-28,2025-04-01,,,,Lost,Chose Competitor,false,false
+HL944715,C003,Event,2025-02-26,2025-02-01,2025-03-16,,,Lost,Stayed Home,true,false
+HL945596,C006,Referral,2025-03-20,2025-03-01,,,,Open,"",false,false
+HL945773,C001,Print,2025-06-12,2025-06-01,,,,Open,"",false,false
+HL945909,C004,Web Inquiry,2025-03-05,2025-03-01,2025-03-12,,,Lost,Chose Competitor,true,false
+HL947975,C006,Walk-in,2025-01-28,2025-01-01,2025-02-18,,,Lost,Other,true,false
+HL948354,C005,Print,2025-02-12,2025-02-01,,,,Open,"",false,false
+HL949413,C010,Referral,2025-04-04,2025-04-01,2025-04-11,,,Lost,Chose Competitor,true,false
+HL949546,C013,Event,2025-02-05,2025-02-01,2025-02-18,,,Lost,Stayed Home,true,false
+HL950154,C006,Walk-in,2025-01-18,2025-01-01,,,,Open,"",false,false
+HL951215,C005,Event,2025-06-17,2025-06-01,2025-06-26,,,Lost,Chose Competitor,true,false
+HL951887,C013,Event,2025-05-27,2025-05-01,,,,Open,"",false,false
+HL952354,C006,Walk-in,2025-06-21,2025-06-01,2025-07-05,,,Lost,Other,true,false
+HL956049,C007,Walk-in,2025-01-24,2025-01-01,,,,Lost,Affordability,false,false
+HL956149,C003,Web Inquiry,2025-01-01,2025-01-01,2025-01-19,,,Lost,Chose Competitor,true,false
+HL956877,C009,Google Ads,2025-06-01,2025-06-01,,2025-06-18,2025-07-20,Won,"",false,true
+HL957276,C006,Print,2025-02-01,2025-02-01,2025-02-14,2025-03-10,2025-03-29,Won,"",true,true
+HL958271,C014,Event,2025-05-14,2025-05-01,2025-05-26,2025-05-29,2025-06-10,Won,"",true,true
+HL959590,C010,Google Ads,2025-01-14,2025-01-01,2025-02-04,,,Lost,Chose Competitor,true,false
+HL961662,C004,Referral,2025-02-20,2025-02-01,,2025-03-28,2025-03-18,Won,"",false,true
+HL962999,C011,Facebook,2025-05-16,2025-05-01,2025-06-06,2025-06-21,2025-07-11,Won,"",true,true
+HL965369,C002,Google Ads,2025-03-04,2025-03-01,2025-03-12,,,Lost,Chose Competitor,true,false
+HL965519,C002,Event,2025-05-09,2025-05-01,2025-05-20,2025-05-31,2025-06-25,Won,"",true,true
+HL966278,C002,Web Inquiry,2025-01-18,2025-01-01,,,,Lost,Affordability,false,false
+HL967748,C002,Walk-in,2025-01-13,2025-01-01,,,,Open,"",false,false
+HL967956,C011,Google Ads,2025-02-08,2025-02-01,,,,Open,"",false,false
+HL970389,C012,Facebook,2025-05-09,2025-05-01,2025-05-29,,,Lost,Chose Competitor,true,false
+HL971948,C012,Walk-in,2025-04-19,2025-04-01,,,,Lost,Chose Competitor,false,false
+HL973484,C001,Facebook,2025-05-25,2025-05-01,2025-05-31,,,Lost,Other,true,false
+HL973841,C004,Web Inquiry,2025-03-04,2025-03-01,2025-03-11,2025-04-08,2025-04-13,Won,"",true,true
+HL974348,C005,Facebook,2025-01-02,2025-01-01,,,,Open,"",false,false
+HL975804,C001,Web Inquiry,2025-02-07,2025-02-01,2025-02-18,2025-02-27,2025-03-16,Won,"",true,true
+HL975808,C014,Google Ads,2025-04-13,2025-04-01,2025-05-03,,,Lost,Other,true,false
+HL978475,C007,Print,2025-01-10,2025-01-01,2025-01-16,2025-02-06,2025-01-31,Won,"",true,true
+HL979097,C003,Referral,2025-04-21,2025-04-01,,,,Lost,Stayed Home,false,false
+HL980383,C012,Referral,2025-01-11,2025-01-01,2025-01-27,,,Lost,Chose Competitor,true,false
+HL981115,C006,Facebook,2025-03-20,2025-03-01,,,,Open,"",false,false
+HL983988,C008,Google Ads,2025-06-09,2025-06-01,,2025-07-18,2025-08-07,Won,"",false,true
+HL984796,C004,Walk-in,2025-04-01,2025-04-01,2025-04-17,,,Lost,Stayed Home,true,false
+HL985302,C014,Facebook,2025-01-18,2025-01-01,2025-02-05,,,Lost,Health Decline,true,false
+HL985391,C001,Print,2025-02-26,2025-02-01,2025-03-09,2025-04-05,2025-03-22,Won,"",true,true
+HL986381,C012,Facebook,2025-04-08,2025-04-01,2025-04-11,,,Lost,Chose Competitor,true,false
+HL990147,C007,Event,2025-03-05,2025-03-01,2025-03-14,,,Lost,Chose Competitor,true,false
+HL992732,C001,Web Inquiry,2025-02-17,2025-02-01,2025-02-24,,,Lost,Affordability,true,false
+HL992907,C013,Print,2025-02-02,2025-02-01,2025-02-19,,,Lost,Other,true,false
+HL993180,C004,Event,2025-06-17,2025-06-01,2025-06-23,,,Lost,Stayed Home,true,false
+HL993490,C005,Google Ads,2025-05-27,2025-05-01,2025-06-07,,,Lost,Stayed Home,true,false
+HL993786,C014,Walk-in,2025-02-07,2025-02-01,2025-02-20,,,Lost,Affordability,true,false
+HL995014,C002,Referral,2025-06-11,2025-06-01,2025-06-29,,,Lost,Stayed Home,true,false
+HL995334,C014,Web Inquiry,2025-05-20,2025-05-01,,2025-06-04,2025-06-16,Won,"",false,true
+HL995428,C004,Web Inquiry,2025-05-01,2025-05-01,,,,Lost,Other,false,false
+HL997010,C001,Print,2025-05-17,2025-05-01,,,,Open,"",false,false
+HL997686,C004,Web Inquiry,2025-06-12,2025-06-01,2025-06-15,,,Lost,Health Decline,true,false
+HL998837,C002,Event,2025-04-04,2025-04-01,,,,Open,"",false,false
+HL999788,C014,Web Inquiry,2025-06-12,2025-06-01,,,,Open,"",false,false

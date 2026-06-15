@@ -1,0 +1,15 @@
+community_id,community_name,city,state,region
+C001,Pinewood Portland,Portland,OR,Pacific Northwest
+C002,Pinewood Salem,Salem,OR,Pacific Northwest
+C003,Pinewood Eugene,Eugene,OR,Pacific Northwest
+C004,Pinewood Bend,Bend,OR,Pacific Northwest
+C005,Pinewood Medford,Medford,OR,Pacific Northwest
+C006,Pinewood Phoenix,Phoenix,AZ,Southwest
+C007,Pinewood Tucson,Tucson,AZ,Southwest
+C008,Pinewood Mesa,Mesa,AZ,Southwest
+C009,Pinewood Scottsdale,Scottsdale,AZ,Southwest
+C010,Pinewood Chandler,Chandler,AZ,Southwest
+C011,Pinewood Austin,Austin,TX,South
+C012,Pinewood Dallas,Dallas,TX,South
+C013,Pinewood Houston,Houston,TX,South
+C014,Pinewood San Antonio,San Antonio,TX,South

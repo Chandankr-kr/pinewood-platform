@@ -1,0 +1,18 @@
+# Where the raw source CSVs live. Override with env var PINEWOOD_DATA_DIR.
+data_dir: "../Pinewood_Dataset (1)/candidate_package/data"
+
+# DuckDB warehouse file (Bronze/Silver/Gold all live here).
+warehouse: "warehouse/pinewood.duckdb"
+
+# Community master (derived — communities are not provided as a source file).
+communities: "config/communities.csv"
+
+# Validation tolerances (fractional). Aggregate reconciliation must match within these.
+tolerances:
+  revenue_pct: 0.005          # 0.5%
+  resident_days_pct: 0.005
+  shift_hours_pct: 0.005
+
+# Analysis "as of" date. The dataset covers 2025-01..2025-06; we treat end of
+# the data window as the reference point for trailing-12-month style questions.
+as_of_date: "2025-06-30"
