@@ -1,10 +1,4 @@
-"""Shared helpers: config loading, DuckDB connection, and value-cleaning
-functions used across the Bronze/Silver/Gold layers.
 
-Everything here is deliberately small and explicit. The cleaning rules encode
-decisions we made about the messy source data; each one is commented so the
-choice can be defended.
-"""
 from __future__ import annotations
 
 import ast
